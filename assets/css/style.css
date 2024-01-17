@@ -281,7 +281,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
   line-height: 30px;
   font-family: "Jost", sans-serif;
   font-weight: 500;
-  color: #086ad8;
+  color: #2d7228;
   letter-spacing: 1px;
   text-transform: uppercase;
   margin-bottom: 12px;
@@ -1326,7 +1326,7 @@ textarea:-ms-input-placeholder {
 }
 
 .header-section-02 .header-menu .main-menu > li.active-menu > a {
-  color: #ff5538;
+  color: #2d7228;
 }
 
 .header-section-02 .header-menu .main-menu > li.active-menu > .menu-icon::after {
@@ -2102,7 +2102,7 @@ textarea:-ms-input-placeholder {
   position: absolute;
   left: 0;
   top: 50%;
-  background: #ff5538;
+  background: #2d7228;
   height: 255px;
   width: 10px;
   transform: translateY(-50%);
@@ -2922,7 +2922,7 @@ textarea:-ms-input-placeholder {
   position: absolute;
   left: 0;
   top: -18%;
-  background: #ff5538;
+  background: #44583c;
   width: 70px;
   height: 70px;
   border-radius: 50%;
