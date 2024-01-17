@@ -1,14 +1,6 @@
 /*-----------------------------------------------------------------------------------
 
-    Template Name: techwix - Technology IT Solutions Consultancy HTML5 Template
-    Template URI: https://thepixelcurve.com/
-    Description: A Library of Responsive Bootstrap5, HTML5, and CSS3 Website Templates
-    Author: Pixelcurve
-    Author URI: https://thepixelcurve.com/
-    Version: 1.0
-
-
------------------------------------------------------------------------------------
+   -----------------------------------------------------------------------------------
     
     CSS INDEX
     ===================
@@ -39,13 +31,15 @@
     22. Subscribe CSS
     23. Login Register CSS
     24. Footer CSS
-    24.1. Footer Widget CSS
-	
+    24.1. Footer Widget CSS	
 
 -----------------------------------------------------------------------------------*/
+
 /*----------------------------------------*/
 /*  01. Theme default CSS
 /*----------------------------------------*/
+
+
 /*-- Google Font --*/
 @import url("https://fonts.googleapis.com/css2?family=Barlow:wght@400;500;600;700&amp;family=Jost:wght@300;400;500&amp;display=swap");
 /*-- Common Style --*/
