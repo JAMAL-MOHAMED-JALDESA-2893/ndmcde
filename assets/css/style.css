@@ -35,9 +35,6 @@
 
 -----------------------------------------------------------------------------------*/
 
-/*----------------------------------------*/
-/*  01. Theme default CSS
-/*----------------------------------------*/
 
 
 /*-- Google Font --*/
@@ -54,7 +51,7 @@ body {
   line-height: 1.75;
   font-weight: 400;
   font-family: "Jost", sans-serif;
-  color: #4c4d56;
+  color: #485549;
   outline: none;
   visibility: visible;
   overflow-X: hidden;
@@ -149,7 +146,7 @@ a:focus {
 
 a:hover {
   text-decoration: none;
-  color: #086ad8;
+  color: #2d7228;
 }
 
 ul, ol {
@@ -288,7 +285,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
 }
 
 .section-title .sub-title.color-2 {
-  color: #ff5538;
+  color: #2d7228;
 }
 
 .section-title .sub-title.color-3 {
@@ -606,7 +603,7 @@ textarea:-ms-input-placeholder {
   line-height: 45px;
   font-size: 14px;
   padding: 0 40px;
-  background: #ff5538;
+  background: #2d7228;
   color: #ffffff;
 }
 
@@ -1269,11 +1266,11 @@ textarea:-ms-input-placeholder {
 }
 
 .header-section-02.sticky .header-wrap .header-menu .main-menu li.active-menu > a {
-  color: #ff5538;
+  color: #2d7228;
 }
 
 .header-section-02.sticky .header-wrap .header-menu .main-menu li.active-menu > .menu-icon::after {
-  color: #ff5538;
+  color: #2d7228;
 }
 
 .header-section-02.sticky .header-wrap .header-menu .main-menu li .menu-icon::after {
@@ -1281,23 +1278,23 @@ textarea:-ms-input-placeholder {
 }
 
 .header-section-02.sticky .header-wrap .header-menu .main-menu li:hover > .menu-icon::after {
-  color: #ff5538;
+  color: #2d7228;
 }
 
 .header-section-02.sticky .header-wrap .header-menu .main-menu li:hover > a {
-  color: #ff5538;
+  color: #2d7228;
 }
 
 .header-section-02.sticky .header-wrap .header-menu .main-menu li .sub-menu {
-  border-top: 3px solid #ff5538;
+  border-top: 3px solid #2d7228;
 }
 
 .header-section-02.sticky .header-wrap .header-menu .main-menu li .sub-menu li.active > a {
-  color: #ff5538;
+  color: #2d7228;
 }
 
 .header-section-02.sticky .header-wrap .header-menu .main-menu li .sub-menu li:hover > a {
-  color: #ff5538;
+  color: #2d7228;
   padding-left: 35px;
 }
 
@@ -1306,7 +1303,7 @@ textarea:-ms-input-placeholder {
 }
 
 .header-section-02.sticky .header-wrap .header-cart .cart-btn:hover {
-  color: #ff5538;
+  color: #2d7228;
 }
 
 .header-section-02.sticky .header-wrap .header-search .search-btn {
@@ -1314,7 +1311,7 @@ textarea:-ms-input-placeholder {
 }
 
 .header-section-02.sticky .header-wrap .header-search .search-btn:hover {
-  color: #ff5538;
+  color: #2d7228;
 }
 
 .header-section-02 .header-logo .logo-black {
@@ -1330,7 +1327,7 @@ textarea:-ms-input-placeholder {
 }
 
 .header-section-02 .header-menu .main-menu > li.active-menu > .menu-icon::after {
-  color: #ff5538;
+  color: #2d7228;
 }
 
 .header-section-02 .header-menu .main-menu > li .menu-icon::after {
@@ -1338,23 +1335,23 @@ textarea:-ms-input-placeholder {
 }
 
 .header-section-02 .header-menu .main-menu > li:hover > .menu-icon::after {
-  color: #ff5538;
+  color: #2d7228;
 }
 
 .header-section-02 .header-menu .main-menu > li:hover > a {
-  color: #ff5538;
+  color: #2d7228;
 }
 
 .header-section-02 .header-menu .main-menu > li .sub-menu {
-  border-top: 3px solid #ff5538;
+  border-top: 3px solid #2d7228;
 }
 
 .header-section-02 .header-menu .main-menu > li .sub-menu li.active > a {
-  color: #ff5538;
+  color: #2d7228;
 }
 
 .header-section-02 .header-menu .main-menu > li .sub-menu li:hover > a {
-  color: #ff5538;
+  color: #2d7228;
 }
 
 .header-section-02 .header-cart .cart-btn {
@@ -1362,11 +1359,11 @@ textarea:-ms-input-placeholder {
 }
 
 .header-section-02 .header-cart .cart-btn:hover {
-  color: #ff5538;
+  color: #2d7228;
 }
 
 .header-section-02 .header-cart .cart-btn .count {
-  background: #ff5538;
+  background: #2d7228;
   color: #ffffff;
 }
 
@@ -1375,31 +1372,31 @@ textarea:-ms-input-placeholder {
 }
 
 .header-section-02 .header-search .search-btn:hover {
-  color: #ff5538;
+  color: #2d7228;
 }
 
 .header-section-02 .dropdown-cart .cart-items .single-cart-item .item-content .quantity {
-  color: #ff5538;
+  color: #2d7228;
 }
 
 .header-section-02 .dropdown-cart .cart-total .value {
-  color: #ff5538;
+  color: #2d7228;
 }
 
 .header-section-02 .dropdown-cart .cart-btns .btn.btn-3 {
-  background: #ff5538;
+  background: #2d7228;
   color: #ffffff;
   box-shadow: 11px 10px 38px 0 rgba(46, 63, 99, 0.15);
 }
 
 .header-section-02 .dropdown-cart .cart-btns .btn.btn-3:hover {
   background: #ffffff;
-  color: #ff5538;
+  color: #2d7228;
 }
 
 .header-section-02 .header-btn .btn.btn-3:hover {
   background: #ffffff;
-  color: #ff5538;
+  color: #2d7228;
 }
 
 .header-section-04 {
@@ -1715,22 +1712,22 @@ textarea:-ms-input-placeholder {
 }
 
 .header-section-06 .dropdown-cart .cart-items .single-cart-item .item-content .quantity {
-  color: #ff5538;
+  color: #2d7228;
 }
 
 .header-section-06 .dropdown-cart .cart-total .value {
-  color: #ff5538;
+  color: #2d7228;
 }
 
 .header-section-06 .dropdown-cart .cart-btns .btn.btn-3 {
-  background: #ff5538;
+  background: #2d7228;
   color: #ffffff;
   box-shadow: 11px 10px 38px 0 rgba(46, 63, 99, 0.15);
 }
 
 .header-section-06 .dropdown-cart .cart-btns .btn.btn-3:hover {
   background: #ffffff;
-  color: #ff5538;
+  color: #2d7228;
 }
 
 .header-section-06 .header-meta {
@@ -1888,7 +1885,7 @@ textarea:-ms-input-placeholder {
 /*--
 /*  03 - Hero CSS
 /*----------------------------------------*/
-.techwix-hero-section {
+.nomadscode-hero-section {
   background: #f0f0f0;
   overflow: hidden;
   position: relative;
@@ -1899,7 +1896,7 @@ textarea:-ms-input-placeholder {
   z-index: 1;
 }
 
-.techwix-hero-section .shape-2 {
+.nomadscode-hero-section .shape-2 {
   position: absolute;
   width: 100%;
   height: 130px;
@@ -1912,7 +1909,7 @@ textarea:-ms-input-placeholder {
   z-index: 2;
 }
 
-.techwix-hero-section .hero-content .sub-title {
+.nomadscode-hero-section .hero-content .sub-title {
   font-size: 18px;
   line-height: 30px;
   font-family: "Jost", sans-serif;
@@ -1929,7 +1926,7 @@ textarea:-ms-input-placeholder {
   margin-bottom: 10px;
 }
 
-.techwix-hero-section .hero-content .sub-title span {
+.nomadscode-hero-section .hero-content .sub-title span {
   display: inline-block;
   height: 35px;
   line-height: 33px;
@@ -1943,14 +1940,14 @@ textarea:-ms-input-placeholder {
   margin-right: 10px;
 }
 
-.techwix-hero-section .hero-content .title {
+.nomadscode-hero-section .hero-content .title {
   font-size: 72px;
   line-height: 84px;
   color: #0e0e0e;
   margin-top: 15px;
 }
 
-.techwix-hero-section .hero-content p {
+.nomadscode-hero-section .hero-content p {
   font-size: 24px;
   line-height: 36px;
   color: #4c4d56;
@@ -1958,100 +1955,100 @@ textarea:-ms-input-placeholder {
   margin-top: 30px;
 }
 
-.techwix-hero-section .hero-content .hero-btn .btn {
+.nomadscode-hero-section .hero-content .hero-btn .btn {
   margin-top: 45px;
 }
 
-.techwix-hero-section .hero-images .images {
+.nomadscode-hero-section .hero-images .images {
   text-align: center;
   position: relative;
   bottom: -50px;
 }
 
 @media only screen and (max-width: 1399px) {
-  .techwix-hero-section .shape-2 {
+  .nomadscode-hero-section .shape-2 {
     bottom: -110px;
   }
-  .techwix-hero-section .hero-content .sub-title {
+  .nomadscode-hero-section .hero-content .sub-title {
     padding-right: 20px;
   }
-  .techwix-hero-section .hero-content .sub-title span {
+  .nomadscode-hero-section .hero-content .sub-title span {
     font-size: 14px;
     padding: 0 14px;
     margin-right: 5px;
   }
-  .techwix-hero-section .hero-content .title {
+  .nomadscode-hero-section .hero-content .title {
     font-size: 60px;
     line-height: 72px;
   }
 }
 
 @media only screen and (max-width: 1199px) {
-  .techwix-hero-section .hero-content .sub-title {
+  .nomadscode-hero-section .hero-content .sub-title {
     font-size: 14px;
     padding-right: 15px;
   }
-  .techwix-hero-section .hero-content .title {
+  .nomadscode-hero-section .hero-content .title {
     font-size: 50px;
     line-height: 62px;
   }
-  .techwix-hero-section .hero-content p {
+  .nomadscode-hero-section .hero-content p {
     padding-right: 0px;
   }
 }
 
 @media only screen and (max-width: 991px) {
-  .techwix-hero-section .shape-2 {
+  .nomadscode-hero-section .shape-2 {
     transform: skewY(-4deg);
     bottom: -75px;
   }
-  .techwix-hero-section .hero-content {
+  .nomadscode-hero-section .hero-content {
     padding-top: 70px;
   }
-  .techwix-hero-section .hero-images {
+  .nomadscode-hero-section .hero-images {
     padding-top: 50px;
   }
 }
 
 @media only screen and (max-width: 767px) {
-  .techwix-hero-section .hero-content .sub-title {
+  .nomadscode-hero-section .hero-content .sub-title {
     font-size: 14px;
     padding-right: 15px;
   }
-  .techwix-hero-section .hero-content .sub-title span {
+  .nomadscode-hero-section .hero-content .sub-title span {
     font-size: 14px;
     padding: 0 14px;
     margin-right: 5px;
   }
-  .techwix-hero-section .hero-content .title {
+  .nomadscode-hero-section .hero-content .title {
     font-size: 40px;
     line-height: 52px;
   }
-  .techwix-hero-section .hero-content p {
+  .nomadscode-hero-section .hero-content p {
     font-size: 18px;
   }
-  .techwix-hero-section .hero-images {
+  .nomadscode-hero-section .hero-images {
     padding-top: 50px;
   }
 }
 
 @media only screen and (max-width: 575px) {
-  .techwix-hero-section .hero-images .images {
+  .nomadscode-hero-section .hero-images .images {
     bottom: -15px;
   }
 }
 
 @media only screen and (max-width: 449px) {
-  .techwix-hero-section .hero-content .sub-title {
+  .nomadscode-hero-section .hero-content .sub-title {
     font-size: 11px;
   }
-  .techwix-hero-section .hero-content .sub-title span {
+  .nomadscode-hero-section .hero-content .sub-title span {
     font-size: 12px;
     padding: 0 12px;
   }
 }
 
-.techwix-hero-section-02 {
+.nomadscode-hero-section-02 {
   padding-top: 185px;
   padding-bottom: 310px;
   background-repeat: no-repeat;
@@ -2062,7 +2059,7 @@ textarea:-ms-input-placeholder {
   z-index: 1;
 }
 
-.techwix-hero-section-02::before {
+.nomadscode-hero-section-02::before {
   content: "";
   position: absolute;
   left: 0;
@@ -2073,14 +2070,14 @@ textarea:-ms-input-placeholder {
   z-index: -1;
 }
 
-.techwix-hero-section-02 .svg-shape {
+.nomadscode-hero-section-02 .svg-shape {
   position: absolute;
   bottom: -17%;
   left: -26%;
   width: 100%;
 }
 
-.techwix-hero-section-02 .hero-content .sub-title {
+.nomadscode-hero-section-02 .hero-content .sub-title {
   font-size: 24px;
   line-height: 36px;
   font-family: "Jost", sans-serif;
@@ -2088,7 +2085,7 @@ textarea:-ms-input-placeholder {
   color: #ffffff;
 }
 
-.techwix-hero-section-02 .hero-content .title {
+.nomadscode-hero-section-02 .hero-content .title {
   font-size: 80px;
   line-height: 90px;
   padding-left: 45px;
@@ -2097,7 +2094,7 @@ textarea:-ms-input-placeholder {
   position: relative;
 }
 
-.techwix-hero-section-02 .hero-content .title::before {
+.nomadscode-hero-section-02 .hero-content .title::before {
   content: "";
   position: absolute;
   left: 0;
@@ -2108,15 +2105,15 @@ textarea:-ms-input-placeholder {
   transform: translateY(-50%);
 }
 
-.techwix-hero-section-02 .hero-content .hero-play-btn {
+.nomadscode-hero-section-02 .hero-content .hero-play-btn {
   margin-top: 55px;
 }
 
-.techwix-hero-section-02 .hero-content .hero-play-btn a {
+.nomadscode-hero-section-02 .hero-content .hero-play-btn a {
   position: relative;
 }
 
-.techwix-hero-section-02 .hero-content .hero-play-btn a::before {
+.nomadscode-hero-section-02 .hero-content .hero-play-btn a::before {
   content: "";
   border: 2px solid #ffffff;
   position: absolute;
@@ -2130,7 +2127,7 @@ textarea:-ms-input-placeholder {
   border-radius: 50%;
 }
 
-.techwix-hero-section-02 .hero-content .hero-play-btn .play-btn i {
+.nomadscode-hero-section-02 .hero-content .hero-play-btn .play-btn i {
   width: 80px;
   height: 80px;
   background: transparent;
@@ -2138,12 +2135,12 @@ textarea:-ms-input-placeholder {
   line-height: 80px;
   text-align: center;
   font-size: 14px;
-  color: #ff5538;
+  color: #2d7228;
   background: #ffffff;
   border-radius: 50%;
 }
 
-.techwix-hero-section-02 .hero-content .hero-play-btn span {
+.nomadscode-hero-section-02 .hero-content .hero-play-btn span {
   font-size: 30px;
   font-weight: 600;
   color: #ffffff;
@@ -2151,82 +2148,82 @@ textarea:-ms-input-placeholder {
 }
 
 @media only screen and (max-width: 1399px) {
-  .techwix-hero-section-02 .hero-content .title {
+  .nomadscode-hero-section-02 .hero-content .title {
     font-size: 70px;
     line-height: 80px;
   }
-  .techwix-hero-section-02 .hero-content .title::before {
+  .nomadscode-hero-section-02 .hero-content .title::before {
     height: 220px;
   }
 }
 
 @media only screen and (max-width: 1199px) {
-  .techwix-hero-section-02 {
+  .nomadscode-hero-section-02 {
     padding-bottom: 260px;
   }
-  .techwix-hero-section-02 .svg-shape {
+  .nomadscode-hero-section-02 .svg-shape {
     bottom: -16%;
   }
-  .techwix-hero-section-02 .hero-content .title {
+  .nomadscode-hero-section-02 .hero-content .title {
     font-size: 58px;
     line-height: 70px;
   }
-  .techwix-hero-section-02 .hero-content .title::before {
+  .nomadscode-hero-section-02 .hero-content .title::before {
     height: 195px;
   }
 }
 
 @media only screen and (max-width: 991px) {
-  .techwix-hero-section-02 .svg-shape {
+  .nomadscode-hero-section-02 .svg-shape {
     left: -35%;
   }
 }
 
 @media only screen and (max-width: 767px) {
-  .techwix-hero-section-02 {
+  .nomadscode-hero-section-02 {
     padding-top: 150px;
   }
-  .techwix-hero-section-02 .svg-shape {
+  .nomadscode-hero-section-02 .svg-shape {
     bottom: -18%;
     left: -55%;
   }
-  .techwix-hero-section-02 .hero-content .sub-title {
+  .nomadscode-hero-section-02 .hero-content .sub-title {
     font-size: 20px;
   }
-  .techwix-hero-section-02 .hero-content .title {
+  .nomadscode-hero-section-02 .hero-content .title {
     font-size: 48px;
     line-height: 60px;
   }
-  .techwix-hero-section-02 .hero-content .title::before {
+  .nomadscode-hero-section-02 .hero-content .title::before {
     height: 180px;
   }
 }
 
 @media only screen and (max-width: 449px) {
-  .techwix-hero-section-02 .svg-shape {
+  .nomadscode-hero-section-02 .svg-shape {
     bottom: -18%;
     left: -55%;
   }
-  .techwix-hero-section-02 .hero-content .title {
+  .nomadscode-hero-section-02 .hero-content .title {
     font-size: 35px;
     line-height: 45px;
     padding-left: 25px;
   }
-  .techwix-hero-section-02 .hero-content .title::before {
+  .nomadscode-hero-section-02 .hero-content .title::before {
     height: 140px;
     width: 8px;
   }
-  .techwix-hero-section-02 .hero-content .hero-play-btn a::before {
+  .nomadscode-hero-section-02 .hero-content .hero-play-btn a::before {
     left: 13%;
     width: 90px;
     height: 90px;
   }
-  .techwix-hero-section-02 .hero-content .hero-play-btn .play-btn i {
+  .nomadscode-hero-section-02 .hero-content .hero-play-btn .play-btn i {
     width: 65px;
     height: 65px;
     line-height: 65px;
   }
-  .techwix-hero-section-02 .hero-content .hero-play-btn span {
+  .nomadscode-hero-section-02 .hero-content .hero-play-btn span {
     font-size: 25px;
     font-weight: 600;
     color: #ffffff;
@@ -2234,7 +2231,7 @@ textarea:-ms-input-placeholder {
   }
 }
 
-.techwix-hero-section-03 {
+.nomadscode-hero-section-03 {
   height: 1020px;
   background-repeat: no-repeat;
   background-size: cover;
@@ -2244,35 +2241,35 @@ textarea:-ms-input-placeholder {
   z-index: 1;
 }
 
-.techwix-hero-section-03 .shape-1 {
+.nomadscode-hero-section-03 .shape-1 {
   position: absolute;
   top: -34%;
   left: -9%;
   z-index: -1;
 }
 
-.techwix-hero-section-03 .shape-2 {
+.nomadscode-hero-section-03 .shape-2 {
   position: absolute;
   left: 10%;
   top: -27%;
   z-index: -1;
 }
 
-.techwix-hero-section-03 .shape-3 {
+.nomadscode-hero-section-03 .shape-3 {
   position: absolute;
   right: -4%;
   bottom: -19%;
   z-index: -1;
 }
 
-.techwix-hero-section-03 .shape-4 {
+.nomadscode-hero-section-03 .shape-4 {
   position: absolute;
   top: 20%;
   right: -29%;
   z-index: -1;
 }
 
-.techwix-hero-section-03 .hero-content .sub-title {
+.nomadscode-hero-section-03 .hero-content .sub-title {
   font-size: 16px;
   line-height: 30px;
   font-weight: 600;
@@ -2281,7 +2278,7 @@ textarea:-ms-input-placeholder {
   color: #ffffff;
 }
 
-.techwix-hero-section-03 .hero-content .title {
+.nomadscode-hero-section-03 .hero-content .title {
   font-size: 70px;
   line-height: 78px;
   font-weight: 600;
@@ -2289,7 +2286,7 @@ textarea:-ms-input-placeholder {
   margin-top: 10px;
 }
 
-.techwix-hero-section-03 .hero-content p {
+.nomadscode-hero-section-03 .hero-content p {
   font-size: 24px;
   line-height: 36px;
   font-weight: 500;
@@ -2297,111 +2294,111 @@ textarea:-ms-input-placeholder {
   margin-top: 30px;
 }
 
-.techwix-hero-section-03 .hero-content .hero-btn .btn {
+.nomadscode-hero-section-03 .hero-content .hero-btn .btn {
   margin-top: 40px;
 }
 
 @media only screen and (max-width: 1399px) {
-  .techwix-hero-section-03 .hero-content .title {
+  .nomadscode-hero-section-03 .hero-content .title {
     font-size: 60px;
     line-height: 70px;
   }
 }
 
 @media only screen and (max-width: 1199px) {
-  .techwix-hero-section-03 {
+  .nomadscode-hero-section-03 {
     height: 850px;
   }
-  .techwix-hero-section-03 .shape-1 {
+  .nomadscode-hero-section-03 .shape-1 {
     top: -65%;
     left: -20%;
   }
-  .techwix-hero-section-03 .shape-2 {
+  .nomadscode-hero-section-03 .shape-2 {
     left: 4%;
     top: -48%;
   }
-  .techwix-hero-section-03 .shape-3 {
+  .nomadscode-hero-section-03 .shape-3 {
     right: -16%;
     bottom: -26%;
   }
-  .techwix-hero-section-03 .shape-4 {
+  .nomadscode-hero-section-03 .shape-4 {
     top: 25%;
     right: -61%;
   }
-  .techwix-hero-section-03 .hero-content .title {
+  .nomadscode-hero-section-03 .hero-content .title {
     font-size: 50px;
     line-height: 60px;
   }
-  .techwix-hero-section-03 .hero-content p {
+  .nomadscode-hero-section-03 .hero-content p {
     font-size: 20px;
     line-height: 32px;
   }
 }
 
 @media only screen and (max-width: 991px) {
-  .techwix-hero-section-03 {
+  .nomadscode-hero-section-03 {
     height: 750px;
   }
-  .techwix-hero-section-03 .shape-1 {
+  .nomadscode-hero-section-03 .shape-1 {
     top: -79%;
     left: -30%;
   }
-  .techwix-hero-section-03 .shape-2 {
+  .nomadscode-hero-section-03 .shape-2 {
     left: -4%;
     top: -59%;
   }
-  .techwix-hero-section-03 .shape-4 {
+  .nomadscode-hero-section-03 .shape-4 {
     top: 17%;
     right: -73%;
   }
 }
 
 @media only screen and (max-width: 767px) {
-  .techwix-hero-section-03 .shape-1 {
+  .nomadscode-hero-section-03 .shape-1 {
     top: -85%;
     left: -45%;
   }
-  .techwix-hero-section-03 .shape-2 {
+  .nomadscode-hero-section-03 .shape-2 {
     left: -12%;
     top: -65%;
   }
-  .techwix-hero-section-03 .shape-3 {
+  .nomadscode-hero-section-03 .shape-3 {
     right: -30%;
     bottom: -35%;
   }
-  .techwix-hero-section-03 .shape-4 {
+  .nomadscode-hero-section-03 .shape-4 {
     display: none;
   }
-  .techwix-hero-section-03 .hero-content .title {
+  .nomadscode-hero-section-03 .hero-content .title {
     font-size: 40px;
     line-height: 50px;
   }
-  .techwix-hero-section-03 .hero-content p {
+  .nomadscode-hero-section-03 .hero-content p {
     font-size: 18px;
     line-height: 30px;
   }
 }
 
 @media only screen and (max-width: 575px) {
-  .techwix-hero-section-03 .shape-1 {
+  .nomadscode-hero-section-03 .shape-1 {
     display: none;
   }
-  .techwix-hero-section-03 .shape-2 {
+  .nomadscode-hero-section-03 .shape-2 {
     display: none;
   }
-  .techwix-hero-section-03 .shape-3 {
+  .nomadscode-hero-section-03 .shape-3 {
     display: none;
   }
-  .techwix-hero-section-03 .hero-content .sub-title {
+  .nomadscode-hero-section-03 .hero-content .sub-title {
     font-size: 15px;
   }
-  .techwix-hero-section-03 .hero-content .title {
+  .nomadscode-hero-section-03 .hero-content .title {
     font-size: 32px;
     line-height: 42px;
   }
 }
 
-.techwix-hero-section-04 {
+.nomadscode-hero-section-04 {
   height: 1070px;
   background-repeat: no-repeat;
   background-position: center center;
@@ -2410,7 +2407,7 @@ textarea:-ms-input-placeholder {
   z-index: 1;
 }
 
-.techwix-hero-section-04::before {
+.nomadscode-hero-section-04::before {
   content: "";
   position: absolute;
   left: 0;
@@ -2421,21 +2418,21 @@ textarea:-ms-input-placeholder {
   z-index: -1;
 }
 
-.techwix-hero-section-04 .shape-1 {
+.nomadscode-hero-section-04 .shape-1 {
   position: absolute;
   left: 0;
   top: 15%;
   z-index: -1;
 }
 
-.techwix-hero-section-04 .shape-2 {
+.nomadscode-hero-section-04 .shape-2 {
   position: absolute;
   right: 0;
   bottom: 0;
   z-index: -1;
 }
 
-.techwix-hero-section-04 .shape-svg {
+.nomadscode-hero-section-04 .shape-svg {
   position: absolute;
   bottom: -3px;
   left: 0;
@@ -2443,16 +2440,16 @@ textarea:-ms-input-placeholder {
   z-index: 1;
 }
 
-.techwix-hero-section-04 .shape-svg svg {
+.nomadscode-hero-section-04 .shape-svg svg {
   fill: #ffffff;
 }
 
-.techwix-hero-section-04 .hero-content {
+.nomadscode-hero-section-04 .hero-content {
   max-width: 710px;
   margin: 0 auto;
 }
 
-.techwix-hero-section-04 .hero-content .sub-title {
+.nomadscode-hero-section-04 .hero-content .sub-title {
   font-size: 20px;
   line-height: 30px;
   font-weight: 600;
@@ -2461,7 +2458,7 @@ textarea:-ms-input-placeholder {
   color: #ffffff;
 }
 
-.techwix-hero-section-04 .hero-content .title {
+.nomadscode-hero-section-04 .hero-content .title {
   font-size: 150px;
   line-height: 78px;
   font-weight: 600;
@@ -2469,58 +2466,58 @@ textarea:-ms-input-placeholder {
   margin-top: 45px;
 }
 
-.techwix-hero-section-04 .hero-content p {
+.nomadscode-hero-section-04 .hero-content p {
   font-size: 24px;
   line-height: 36px;
   color: #ffffff;
   margin-top: 70px;
 }
 
-.techwix-hero-section-04 .hero-content .hero-btn .btn {
+.nomadscode-hero-section-04 .hero-content .hero-btn .btn {
   margin-top: 50px;
 }
 
 @media only screen and (max-width: 1399px) {
-  .techwix-hero-section-04 {
+  .nomadscode-hero-section-04 {
     height: 960px;
   }
-  .techwix-hero-section-04 .hero-content .title {
+  .nomadscode-hero-section-04 .hero-content .title {
     font-size: 130px;
   }
 }
 
 @media only screen and (max-width: 1199px) {
-  .techwix-hero-section-04 {
+  .nomadscode-hero-section-04 {
     height: 920px;
   }
-  .techwix-hero-section-04 .hero-content .title {
+  .nomadscode-hero-section-04 .hero-content .title {
     font-size: 110px;
   }
 }
 
 @media only screen and (max-width: 991px) {
-  .techwix-hero-section-04 {
+  .nomadscode-hero-section-04 {
     height: 820px;
   }
 }
 
 @media only screen and (max-width: 767px) {
-  .techwix-hero-section-04 .shape-1 {
+  .nomadscode-hero-section-04 .shape-1 {
     left: -5%;
     top: 15%;
   }
-  .techwix-hero-section-04 .shape-2 {
+  .nomadscode-hero-section-04 .shape-2 {
     right: -60px;
     bottom: -50px;
   }
-  .techwix-hero-section-04 .hero-content .sub-title {
+  .nomadscode-hero-section-04 .hero-content .sub-title {
     font-size: 18px;
   }
-  .techwix-hero-section-04 .hero-content .title {
+  .nomadscode-hero-section-04 .hero-content .title {
     font-size: 80px;
     margin-top: 30px;
   }
-  .techwix-hero-section-04 .hero-content p {
+  .nomadscode-hero-section-04 .hero-content p {
     font-size: 18px;
     line-height: 32px;
     margin-top: 40px;
@@ -2528,35 +2525,35 @@ textarea:-ms-input-placeholder {
 }
 
 @media only screen and (max-width: 575px) {
-  .techwix-hero-section-04 {
+  .nomadscode-hero-section-04 {
     height: 760px;
   }
-  .techwix-hero-section-04 .shape-1 {
+  .nomadscode-hero-section-04 .shape-1 {
     display: none;
   }
-  .techwix-hero-section-04 .shape-2 {
+  .nomadscode-hero-section-04 .shape-2 {
     display: none;
   }
-  .techwix-hero-section-04 .hero-content .sub-title {
+  .nomadscode-hero-section-04 .hero-content .sub-title {
     font-size: 16px;
   }
-  .techwix-hero-section-04 .hero-content .title {
+  .nomadscode-hero-section-04 .hero-content .title {
     font-size: 60px;
     line-height: 1;
   }
 }
 
-.techwix-hero-section-05 {
+.nomadscode-hero-section-05 {
   padding: 0 40px;
   margin-top: 90px;
 }
 
 @media (min-width: 1200px) and (max-width: 1450px) { 
-    .techwix-hero-section-05 {
+    .nomadscode-hero-section-05 {
       padding: 0 30px;
     }
 }
-.techwix-hero-section-05 .techwix-hero-wrap {
+.nomadscode-hero-section-05 .nomadscode-hero-wrap {
   width: 100%;
   background-repeat: no-repeat;
   background-position: center center;
@@ -2568,18 +2565,18 @@ textarea:-ms-input-placeholder {
   border-radius: 35px;
 }
 
-.techwix-hero-section-05 .techwix-hero-wrap .hero-content {
+.nomadscode-hero-section-05 .nomadscode-hero-wrap .hero-content {
   max-width: 710px;
   margin: 0 auto;
 }
 
 @media (max-width: 1425px) {
-    .techwix-hero-section-05 .techwix-hero-wrap .hero-content {
+    .nomadscode-hero-section-05 .nomadscode-hero-wrap .hero-content {
         padding-left: 20px;
         padding-right: 20px;
     }   
 }
-.techwix-hero-section-05 .techwix-hero-wrap .hero-content .sub-title {
+.nomadscode-hero-section-05 .nomadscode-hero-wrap .hero-content .sub-title {
   font-size: 14px;
   line-height: 30px;
   font-weight: 600;
@@ -2588,7 +2585,7 @@ textarea:-ms-input-placeholder {
   color: #ffffff;
 }
 
-.techwix-hero-section-05 .techwix-hero-wrap .hero-content .title {
+.nomadscode-hero-section-05 .nomadscode-hero-wrap .hero-content .title {
   font-size: 70px;
   line-height: 78px;
   font-weight: 600;
@@ -2596,22 +2593,22 @@ textarea:-ms-input-placeholder {
   margin-top: 10px;
 }
 
-.techwix-hero-section-05 .techwix-hero-wrap .hero-content .title span {
+.nomadscode-hero-section-05 .nomadscode-hero-wrap .hero-content .title span {
   color: #086ad8;
 }
 
-.techwix-hero-section-05 .techwix-hero-wrap .hero-content p {
+.nomadscode-hero-section-05 .nomadscode-hero-wrap .hero-content p {
   font-size: 24px;
   line-height: 36px;
   color: #ffffff;
   margin-top: 40px;
 }
 
-.techwix-hero-section-05 .techwix-hero-wrap .hero-content .hero-btn .btn {
+.nomadscode-hero-section-05 .nomadscode-hero-wrap .hero-content .hero-btn .btn {
   margin-top: 50px;
 }
 
-.techwix-hero-section-05 .techwix-hero-wrap .hero-images .images {
+.nomadscode-hero-section-05 .nomadscode-hero-wrap .hero-images .images {
   -webkit-animation: up-down 5s infinite;
           animation: up-down 5s infinite;
 }
@@ -2641,47 +2638,47 @@ textarea:-ms-input-placeholder {
 }
 
 @media only screen and (max-width: 1199px) {
-  .techwix-hero-section-05 .techwix-hero-wrap .hero-content .title {
+  .nomadscode-hero-section-05 .nomadscode-hero-wrap .hero-content .title {
     font-size: 50px;
     line-height: 60px;
   }
-  .techwix-hero-section-05 .techwix-hero-wrap .hero-content p {
+  .nomadscode-hero-section-05 .nomadscode-hero-wrap .hero-content p {
     font-size: 20px;
   }
 }
 
 @media only screen and (max-width: 991px) {
-  .techwix-hero-section-05 .techwix-hero-wrap {
+  .nomadscode-hero-section-05 .nomadscode-hero-wrap {
     padding-top: 90px;
     padding-bottom: 120px;
   }
-  .techwix-hero-section-05 .techwix-hero-wrap .hero-images .images {
+  .nomadscode-hero-section-05 .nomadscode-hero-wrap .hero-images .images {
     text-align: center;
     margin-top: 60px;
   }
 }
 
 @media only screen and (max-width: 767px) {
-  .techwix-hero-section-05 .techwix-hero-wrap .hero-content .title {
+  .nomadscode-hero-section-05 .nomadscode-hero-wrap .hero-content .title {
     font-size: 40px;
     line-height: 50px;
   }
-  .techwix-hero-section-05 .techwix-hero-wrap .hero-content p {
+  .nomadscode-hero-section-05 .nomadscode-hero-wrap .hero-content p {
     font-size: 18px;
   }
 }
 
 @media only screen and (max-width: 575px) {
-  .techwix-hero-section-05 {
+  .nomadscode-hero-section-05 {
     padding: 0 0;
   }
-  .techwix-hero-section-05 .techwix-hero-wrap .hero-content .title {
+  .nomadscode-hero-section-05 .nomadscode-hero-wrap .hero-content .title {
     font-size: 36px;
     line-height: 45px;
   }
 }
 
-.techwix-hero-section-06 {
+.nomadscode-hero-section-06 {
   background: #0f0948;
   background-repeat: no-repeat;
   background-position: center center;
@@ -2689,13 +2686,13 @@ textarea:-ms-input-placeholder {
   padding-top: 130px;
 }
 
-.techwix-hero-section-06 .hero-images {
+.nomadscode-hero-section-06 .hero-images {
   padding-top: 105px;
   position: relative;
   z-index: 1;
 }
 
-.techwix-hero-section-06 .hero-images .shape-1 {
+.nomadscode-hero-section-06 .hero-images .shape-1 {
   position: absolute;
   left: 5%;
   top: 17%;
@@ -2704,11 +2701,11 @@ textarea:-ms-input-placeholder {
   z-index: -1;
 }
 
-.techwix-hero-section-06 .hero-content {
+.nomadscode-hero-section-06 .hero-content {
   padding-top: 170px;
 }
 
-.techwix-hero-section-06 .hero-content .sub-title {
+.nomadscode-hero-section-06 .hero-content .sub-title {
   font-size: 14px;
   line-height: 30px;
   font-weight: 600;
@@ -2717,7 +2714,7 @@ textarea:-ms-input-placeholder {
   color: #ffffff;
 }
 
-.techwix-hero-section-06 .hero-content .title {
+.nomadscode-hero-section-06 .hero-content .title {
   font-size: 70px;
   line-height: 78px;
   font-weight: 600;
@@ -2725,18 +2722,18 @@ textarea:-ms-input-placeholder {
   margin-top: 10px;
 }
 
-.techwix-hero-section-06 .hero-content .title span {
+.nomadscode-hero-section-06 .hero-content .title span {
   color: #11ddf5;
 }
 
-.techwix-hero-section-06 .hero-content p {
+.nomadscode-hero-section-06 .hero-content p {
   font-size: 24px;
   line-height: 36px;
   color: #ffffff;
   margin-top: 40px;
 }
 
-.techwix-hero-section-06 .hero-content .hero-btn .btn-4 {
+.nomadscode-hero-section-06 .hero-content .hero-btn .btn-4 {
   height: 60px;
   line-height: 58px;
   padding: 0 65px;
@@ -2768,56 +2765,56 @@ textarea:-ms-input-placeholder {
 }
 
 @media only screen and (max-width: 1399px) {
-  .techwix-hero-section-06 .hero-images .shape-1 {
+  .nomadscode-hero-section-06 .hero-images .shape-1 {
     left: 2%;
   }
-  .techwix-hero-section-06 .hero-content .title {
+  .nomadscode-hero-section-06 .hero-content .title {
     font-size: 60px;
     line-height: 70px;
   }
 }
 
 @media only screen and (max-width: 1199px) {
-  .techwix-hero-section-06 .hero-images .shape-1 {
+  .nomadscode-hero-section-06 .hero-images .shape-1 {
     left: 2%;
   }
-  .techwix-hero-section-06 .hero-content {
+  .nomadscode-hero-section-06 .hero-content {
     padding-top: 120px;
   }
-  .techwix-hero-section-06 .hero-content .title {
+  .nomadscode-hero-section-06 .hero-content .title {
     font-size: 50px;
     line-height: 60px;
   }
 }
 
 @media only screen and (max-width: 991px) {
-  .techwix-hero-section-06 .hero-content {
+  .nomadscode-hero-section-06 .hero-content {
     padding-top: 40px;
   }
-  .techwix-hero-section-06 .hero-images .shape-1 {
+  .nomadscode-hero-section-06 .hero-images .shape-1 {
     left: 5%;
   }
 }
 
 @media only screen and (max-width: 767px) {
-  .techwix-hero-section-06 .hero-images {
+  .nomadscode-hero-section-06 .hero-images {
     padding-top: 80px;
   }
-  .techwix-hero-section-06 .hero-images .shape-1 {
+  .nomadscode-hero-section-06 .hero-images .shape-1 {
     left: 0;
   }
-  .techwix-hero-section-06 .hero-content .title {
+  .nomadscode-hero-section-06 .hero-content .title {
     font-size: 40px;
     line-height: 50px;
   }
-  .techwix-hero-section-06 .hero-content p {
+  .nomadscode-hero-section-06 .hero-content p {
     font-size: 20px;
     line-height: 32px;
   }
 }
 
 @media only screen and (max-width: 575px) {
-  .techwix-hero-section-06 .hero-content .title {
+  .nomadscode-hero-section-06 .hero-content .title {
     font-size: 32px;
     line-height: 42px;
   }
@@ -2889,14 +2886,14 @@ textarea:-ms-input-placeholder {
   transform: translateY(-5px) translate3d(0, -5px, 0);
 }
 
-.techwix-service-section-02 {
+.nomadscode-service-section-02 {
   background: #f8f8f8;
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
 }
 
-.techwix-service-section-02 .service-item-02 {
+.nomadscode-service-section-02 .service-item-02 {
   background: #ffffff;
   box-shadow: 0px 43px 100px 0px rgba(0, 0, 0, 0.13);
   border-radius: 10px;
@@ -2906,18 +2903,18 @@ textarea:-ms-input-placeholder {
   position: relative;
 }
 
-.techwix-service-section-02 .service-item-02 .service-img {
+.nomadscode-service-section-02 .service-item-02 .service-img {
   position: relative;
   z-index: 1;
 }
 
-.techwix-service-section-02 .service-item-02 .service-img img {
+.nomadscode-service-section-02 .service-item-02 .service-img img {
   height: 55px;
   position: relative;
   left: 15px;
 }
 
-.techwix-service-section-02 .service-item-02 .service-img::before {
+.nomadscode-service-section-02 .service-item-02 .service-img::before {
   content: "";
   position: absolute;
   left: 0;
@@ -2930,68 +2927,68 @@ textarea:-ms-input-placeholder {
   z-index: -1;
 }
 
-.techwix-service-section-02 .service-item-02 .next-icon {
+.nomadscode-service-section-02 .service-item-02 .next-icon {
   position: absolute;
   right: 15%;
   top: 15%;
 }
 
-.techwix-service-section-02 .service-item-02.service-2, .techwix-service-section-02 .service-item-02.service-4 {
+.nomadscode-service-section-02 .service-item-02.service-2, .nomadscode-service-section-02 .service-item-02.service-4 {
   margin-top: 55px;
 }
 
-.techwix-service-section-02 .service-item-02 .service-content {
+.nomadscode-service-section-02 .service-item-02 .service-content {
   position: relative;
   z-index: 5;
 }
 
-.techwix-service-section-02 .service-item-02 .service-content .title {
+.nomadscode-service-section-02 .service-item-02 .service-content .title {
   font-size: 20px;
   line-height: 24px;
   margin-top: 20px;
 }
 
-.techwix-service-section-02 .service-item-02 .service-content p {
+.nomadscode-service-section-02 .service-item-02 .service-content p {
   margin-top: 15px;
   transition: all 0.3s linear;
 }
 
-.techwix-service-section-02 .service-item-02:hover .service-content .title a {
-  color: #ff5538;
+.nomadscode-service-section-02 .service-item-02:hover .service-content .title a {
+  color: #2d7228;
 }
 
-.techwix-service-section-02 .more-service-content {
+.nomadscode-service-section-02 .more-service-content {
   margin-top: 30px;
 }
 
-.techwix-service-section-02 .more-service-content p {
+.nomadscode-service-section-02 .more-service-content p {
   font-size: 16px;
   line-height: 30px;
 }
 
-.techwix-service-section-02 .more-service-content p a {
+.nomadscode-service-section-02 .more-service-content p a {
   font-weight: 600;
-  color: #ff5538;
+  color: #2d7228;
 }
 
-.techwix-service-section-02 .more-service-content p a i {
+.nomadscode-service-section-02 .more-service-content p a i {
   position: relative;
   top: 1px;
 }
 
 @media only screen and (max-width: 1199px) {
-  .techwix-service-section-02 .service-item-02.service-2, .techwix-service-section-02 .service-item-02.service-4 {
+  .nomadscode-service-section-02 .service-item-02.service-2, .nomadscode-service-section-02 .service-item-02.service-4 {
     margin-top: 30px;
   }
 }
 
 @media only screen and (max-width: 767px) {
-  .techwix-service-section-02 .service-item-02 {
+  .nomadscode-service-section-02 .service-item-02 {
     padding: 40px 40px 45px;
   }
 }
 
-.techwix-service-section-03 {
+.nomadscode-service-section-03 {
   background: #010f31;
   background-repeat: no-repeat;
   background-size: cover;
@@ -2999,13 +2996,13 @@ textarea:-ms-input-placeholder {
   padding-bottom: 110px;
 }
 
-.techwix-service-section-03 .service-wrap-03 {
+.nomadscode-service-section-03 .service-wrap-03 {
   position: relative;
   z-index: 5;
   margin-top: -140px;
 }
 
-.techwix-service-section-03 .service-item-03 {
+.nomadscode-service-section-03 .service-item-03 {
   background: #ffffff;
   border-radius: 10px;
   padding: 30px 45px 35px;
@@ -3013,28 +3010,28 @@ textarea:-ms-input-placeholder {
   position: relative;
 }
 
-.techwix-service-section-03 .service-item-03 .service-content .title {
+.nomadscode-service-section-03 .service-item-03 .service-content .title {
   font-size: 22px;
   line-height: 30px;
   margin-top: 20px;
 }
 
-.techwix-service-section-03 .service-item-03 .service-content p {
+.nomadscode-service-section-03 .service-item-03 .service-content p {
   font-size: 14px;
   line-height: 30px;
   padding-top: 20px;
 }
 
-.techwix-service-section-03 .service-item-03 .service-content .read-more {
+.nomadscode-service-section-03 .service-item-03 .service-content .read-more {
   margin-top: 20px;
 }
 
-.techwix-service-section-03 .service-item-03 .service-content .read-more a {
+.nomadscode-service-section-03 .service-item-03 .service-content .read-more a {
   font-size: 14px;
   color: #333333;
 }
 
-.techwix-service-section-03 .service-item-03 .service-content .read-more a i {
+.nomadscode-service-section-03 .service-item-03 .service-content .read-more a i {
   width: 40px;
   height: 40px;
   line-height: 40px;
@@ -3046,26 +3043,26 @@ textarea:-ms-input-placeholder {
   transition: all 0.3s linear;
 }
 
-.techwix-service-section-03 .service-item-03:hover .service-content .read-more a {
+.nomadscode-service-section-03 .service-item-03:hover .service-content .read-more a {
   color: #086ad8;
 }
 
-.techwix-service-section-03 .service-item-03:hover .service-content .read-more a i {
+.nomadscode-service-section-03 .service-item-03:hover .service-content .read-more a i {
   transform: rotate(90deg);
 }
 
-.techwix-service-section-04 .service-top .experience-wrap {
+.nomadscode-service-section-04 .service-top .experience-wrap {
   position: relative;
 }
 
-.techwix-service-section-04 .service-top .experience-wrap .shape-1 {
+.nomadscode-service-section-04 .service-top .experience-wrap .shape-1 {
   position: absolute;
   left: 0;
   top: -35px;
   z-index: -1;
 }
 
-.techwix-service-section-04 .service-top .experience-wrap .experience {
+.nomadscode-service-section-04 .service-top .experience-wrap .experience {
   width: 370px;
   height: 370px;
   background: #ffffff;
@@ -3076,14 +3073,14 @@ textarea:-ms-input-placeholder {
   top: 20px;
 }
 
-.techwix-service-section-04 .service-top .experience-wrap .experience .number {
+.nomadscode-service-section-04 .service-top .experience-wrap .experience .number {
   font-size: 200px;
   line-height: 54px;
   font-weight: 600;
   color: #086ad8;
 }
 
-.techwix-service-section-04 .service-top .experience-wrap .experience span {
+.nomadscode-service-section-04 .service-top .experience-wrap .experience span {
   font-size: 24px;
   line-height: 30px;
   text-transform: capitalize;
@@ -3091,39 +3088,39 @@ textarea:-ms-input-placeholder {
   margin-top: 80px;
 }
 
-.techwix-service-section-04 .service-top .service-content {
+.nomadscode-service-section-04 .service-top .service-content {
   padding-right: 205px;
   padding-top: 45px;
 }
 
-.techwix-service-section-04 .service-top .service-content p {
+.nomadscode-service-section-04 .service-top .service-content p {
   font-size: 16px;
   line-height: 30px;
   margin-top: 40px;
 }
 
-.techwix-service-section-04 .service-bottom {
+.nomadscode-service-section-04 .service-bottom {
   padding-top: 190px;
 }
 
-.techwix-service-section-04 .service-bottom .service-item-03 {
+.nomadscode-service-section-04 .service-bottom .service-item-03 {
   margin-top: 30px;
 }
 
-.techwix-service-section-04 .service-bottom .service-item-03 .service-img {
+.nomadscode-service-section-04 .service-bottom .service-item-03 .service-img {
   overflow: hidden;
   border-radius: 10px;
 }
 
-.techwix-service-section-04 .service-bottom .service-item-03 .service-img a {
+.nomadscode-service-section-04 .service-bottom .service-item-03 .service-img a {
   display: block;
 }
 
-.techwix-service-section-04 .service-bottom .service-item-03 .service-img a img {
+.nomadscode-service-section-04 .service-bottom .service-item-03 .service-img a img {
   transition: all 0.3s linear;
 }
 
-.techwix-service-section-04 .service-bottom .service-item-03 .service-text {
+.nomadscode-service-section-04 .service-bottom .service-item-03 .service-text {
   background: #ffffff;
   padding: 25px;
   padding-left: 20px;
@@ -3134,14 +3131,14 @@ textarea:-ms-input-placeholder {
   z-index: 1;
 }
 
-.techwix-service-section-04 .service-bottom .service-item-03 .service-text .title {
+.nomadscode-service-section-04 .service-bottom .service-item-03 .service-text .title {
   font-size: 24px;
   line-height: 27px;
   font-weight: 600;
   position: relative;
 }
 
-.techwix-service-section-04 .service-bottom .service-item-03 .service-text .title::before {
+.nomadscode-service-section-04 .service-bottom .service-item-03 .service-text .title::before {
   content: "";
   position: absolute;
   left: -20px;
@@ -3152,107 +3149,107 @@ textarea:-ms-input-placeholder {
   transform: translateY(-50%);
 }
 
-.techwix-service-section-04 .service-bottom .service-item-03:hover .service-img a img {
+.nomadscode-service-section-04 .service-bottom .service-item-03:hover .service-img a img {
   transform: scale(1.1);
 }
 
-.techwix-service-section-04 .service-bottom .more-service-content {
+.nomadscode-service-section-04 .service-bottom .more-service-content {
   margin-top: 50px;
 }
 
-.techwix-service-section-04 .service-bottom .more-service-content p {
+.nomadscode-service-section-04 .service-bottom .more-service-content p {
   font-size: 16px;
   line-height: 30px;
 }
 
-.techwix-service-section-04 .service-bottom .more-service-content p a {
+.nomadscode-service-section-04 .service-bottom .more-service-content p a {
   font-weight: 600;
   color: #086ad8;
 }
 
-.techwix-service-section-04 .service-bottom .more-service-content p a i {
+.nomadscode-service-section-04 .service-bottom .more-service-content p a i {
   position: relative;
   top: 1px;
   transition: all 0.3s linear;
 }
 
-.techwix-service-section-04 .service-bottom .more-service-content p a:hover i {
+.nomadscode-service-section-04 .service-bottom .more-service-content p a:hover i {
   margin-left: 5px;
 }
 
 @media only screen and (max-width: 1199px) {
-  .techwix-service-section-04 .service-top .service-content {
+  .nomadscode-service-section-04 .service-top .service-content {
     padding-right: 0px;
   }
 }
 
 @media only screen and (max-width: 991px) {
-  .techwix-service-section-04 {
+  .nomadscode-service-section-04 {
     padding-top: 100px;
   }
-  .techwix-service-section-04 .service-top .experience-wrap .shape-1 {
+  .nomadscode-service-section-04 .service-top .experience-wrap .shape-1 {
     left: 50%;
     top: -35px;
     transform: translateX(-45%);
   }
-  .techwix-service-section-04 .service-top .experience-wrap .experience {
+  .nomadscode-service-section-04 .service-top .experience-wrap .experience {
     position: relative;
     margin: auto;
   }
-  .techwix-service-section-04 .service-top .service-content {
+  .nomadscode-service-section-04 .service-top .service-content {
     padding-top: 130px;
   }
-  .techwix-service-section-04 .service-bottom {
+  .nomadscode-service-section-04 .service-bottom {
     padding-top: 70px;
   }
 }
 
 @media only screen and (max-width: 767px) {
-  .techwix-service-section-04 .service-top .experience-wrap .shape-1 {
+  .nomadscode-service-section-04 .service-top .experience-wrap .shape-1 {
     width: 370px;
   }
-  .techwix-service-section-04 .service-top .experience-wrap .experience {
+  .nomadscode-service-section-04 .service-top .experience-wrap .experience {
     width: 325px;
     height: 325px;
     padding: 110px 0;
   }
-  .techwix-service-section-04 .service-top .experience-wrap .experience .number {
+  .nomadscode-service-section-04 .service-top .experience-wrap .experience .number {
     font-size: 160px;
   }
-  .techwix-service-section-04 .service-top .experience-wrap .experience span {
+  .nomadscode-service-section-04 .service-top .experience-wrap .experience span {
     font-size: 22px;
     margin-top: 70px;
   }
-  .techwix-service-section-04 .service-bottom {
+  .nomadscode-service-section-04 .service-bottom {
     padding-top: 30px;
   }
 }
 
 @media only screen and (max-width: 449px) {
-  .techwix-service-section-04 .service-top .experience-wrap .shape-1 {
+  .nomadscode-service-section-04 .service-top .experience-wrap .shape-1 {
     width: 320px;
     transform: translateX(-50%);
   }
-  .techwix-service-section-04 .service-top .experience-wrap .experience {
+  .nomadscode-service-section-04 .service-top .experience-wrap .experience {
     width: 290px;
     height: 290px;
     padding: 90px 0;
     left: 0;
     top: 0;
   }
-  .techwix-service-section-04 .service-top .experience-wrap .experience .number {
+  .nomadscode-service-section-04 .service-top .experience-wrap .experience .number {
     font-size: 140px;
   }
-  .techwix-service-section-04 .service-top .experience-wrap .experience span {
+  .nomadscode-service-section-04 .service-top .experience-wrap .experience span {
     font-size: 20px;
     margin-top: 50px;
   }
-  .techwix-service-section-04 .service-top .service-content {
+  .nomadscode-service-section-04 .service-top .service-content {
     padding-top: 100px;
   }
 }
 
-.techwix-service-section-05 {
+.nomadscode-service-section-05 {
   position: relative;
   background-repeat: no-repeat;
   background-size: cover;
@@ -3262,12 +3259,12 @@ textarea:-ms-input-placeholder {
 }
 
 @media only screen and (max-width: 1199px) {
-  .techwix-service-section-05 {
+  .nomadscode-service-section-05 {
     padding-bottom: 120px;
   }
 }
 
-.techwix-service-section-05::before {
+.nomadscode-service-section-05::before {
   content: "";
   position: absolute;
   left: 0;
@@ -3278,7 +3275,7 @@ textarea:-ms-input-placeholder {
   z-index: -1;
 }
 
-.techwix-service-section-05 .service-wrap {
+.nomadscode-service-section-05 .service-wrap {
   background: #ffffff;
   border: 1px solid #e1e1e1;
   border-radius: 15px;
@@ -3287,24 +3284,24 @@ textarea:-ms-input-placeholder {
   padding-bottom: 90px;
 }
 
-.techwix-service-section-05 .section-title {
+.nomadscode-service-section-05 .section-title {
   max-width: 560px;
   margin: 0 auto;
 }
 
-.techwix-service-section-05 .service-content-wrap {
+.nomadscode-service-section-05 .service-content-wrap {
   padding-top: 60px;
 }
 
-.techwix-service-section-05 .service-item-04 {
+.nomadscode-service-section-05 .service-item-04 {
   margin-top: 30px;
 }
 
-.techwix-service-section-05 .service-item-04 .service-img img {
+.nomadscode-service-section-05 .service-item-04 .service-img img {
   transition: all 0.3s linear;
 }
 
-.techwix-service-section-05 .service-item-04 .service-content .title {
+.nomadscode-service-section-05 .service-item-04 .service-content .title {
   font-size: 24px;
   line-height: 27px;
   font-weight: 600;
@@ -3312,55 +3309,55 @@ textarea:-ms-input-placeholder {
   padding-right: 70px;
 }
 
-.techwix-service-section-05 .service-item-04 .service-content p {
+.nomadscode-service-section-05 .service-item-04 .service-content p {
   font-size: 16px;
   line-height: 30px;
   margin-top: 20px;
 }
 
-.techwix-service-section-05 .service-item-04:hover .service-img img {
+.nomadscode-service-section-05 .service-item-04:hover .service-img img {
   transform: scale(1.1);
 }
 
 @media only screen and (max-width: 1399px) {
-  .techwix-service-section-05 .service-item-04 .service-content .title {
+  .nomadscode-service-section-05 .service-item-04 .service-content .title {
     padding-right: 30px;
   }
 }
 
 @media only screen and (max-width: 991px) {
-  .techwix-service-section-05 {
+  .nomadscode-service-section-05 {
     padding-bottom: 100px;
   }
-  .techwix-service-section-05 .service-wrap {
+  .nomadscode-service-section-05 .service-wrap {
     padding-left: 70px;
     padding-right: 70px;
   }
 }
 
 @media only screen and (max-width: 767px) {
-  .techwix-service-section-05 .service-wrap {
+  .nomadscode-service-section-05 .service-wrap {
     padding-left: 40px;
     padding-right: 40px;
   }
-  .techwix-service-section-05 .service-item-04 .service-content .title {
+  .nomadscode-service-section-05 .service-item-04 .service-content .title {
     padding-right: 0px;
   }
 }
 
-.techwix-service-section-06 {
+.nomadscode-service-section-06 {
   background: #eaf3f9;
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
 }
 
-.techwix-service-section-06 .section-title {
+.nomadscode-service-section-06 .section-title {
   max-width: 650px;
   margin: 0 auto;
 }
 
-.techwix-service-section-06 .service-content-wrap {
+.nomadscode-service-section-06 .service-content-wrap {
   padding-top: 30px;
 }
 
@@ -3408,24 +3405,24 @@ textarea:-ms-input-placeholder {
   transform: scale(1.1);
 }
 
-.techwix-service-section-07 {
+.nomadscode-service-section-07 {
   padding-bottom: 280px;
 }
 
-.techwix-service-section-07 .section-title {
+.nomadscode-service-section-07 .section-title {
   max-width: 810px;
   margin: 0 auto;
 }
 
-.techwix-service-section-07 .service-content-wrap {
+.nomadscode-service-section-07 .service-content-wrap {
   padding-top: 80px;
 }
 
-.techwix-service-section-07 .experience-wrap {
+.nomadscode-service-section-07 .experience-wrap {
   position: relative;
 }
 
-.techwix-service-section-07 .experience-wrap .shape-1 {
+.nomadscode-service-section-07 .experience-wrap .shape-1 {
   position: absolute;
   left: 102px;
   top: -28px;
@@ -3434,7 +3431,7 @@ textarea:-ms-input-placeholder {
   z-index: -1;
 }
 
-.techwix-service-section-07 .experience-wrap .experience {
+.nomadscode-service-section-07 .experience-wrap .experience {
   width: 370px;
   height: 370px;
   background: linear-gradient(90deg, #693eaa 0%, #01ebf2 100%);
@@ -3448,14 +3445,14 @@ textarea:-ms-input-placeholder {
   top: 20px;
 }
 
-.techwix-service-section-07 .experience-wrap .experience .number {
+.nomadscode-service-section-07 .experience-wrap .experience .number {
   font-size: 170px;
   line-height: 54px;
   font-weight: 600;
   color: #ffffff;
 }
 
-.techwix-service-section-07 .experience-wrap .experience span {
+.nomadscode-service-section-07 .experience-wrap .experience span {
   font-size: 18px;
   line-height: 24px;
   font-weight: 500;
@@ -3466,20 +3463,20 @@ textarea:-ms-input-placeholder {
   padding-left: 10px;
 }
 
-.techwix-service-section-07 .service-content {
+.nomadscode-service-section-07 .service-content {
   padding-right: 225px;
 }
 
-.techwix-service-section-07 .service-content .text {
+.nomadscode-service-section-07 .service-content .text {
   font-size: 18px;
   line-height: 30px;
 }
 
-.techwix-service-section-07 .service-content .service-list {
+.nomadscode-service-section-07 .service-content .service-list {
   padding-top: 15px;
 }
 
-.techwix-service-section-07 .service-content .service-list ul li {
+.nomadscode-service-section-07 .service-content .service-list ul li {
   display: flex;
   align-items: flex-start;
   font-size: 16px;
@@ -3488,23 +3485,23 @@ textarea:-ms-input-placeholder {
   margin-top: 20px;
 }
 
-.techwix-service-section-07 .service-content .service-list ul li .service-icon {
+.nomadscode-service-section-07 .service-content .service-list ul li .service-icon {
   color: #11ddf5;
   margin-right: 8px;
 }
 
 @media only screen and (max-width: 1399px) {
-  .techwix-service-section-07 .service-content {
+  .nomadscode-service-section-07 .service-content {
     padding-right: 0px;
   }
 }
 
 @media only screen and (max-width: 1199px) {
-  .techwix-service-section-07 .experience-wrap .shape-1 {
+  .nomadscode-service-section-07 .experience-wrap .shape-1 {
     left: 0px;
     top: -28px;
   }
-  .techwix-service-section-07 .experience-wrap .experience {
+  .nomadscode-service-section-07 .experience-wrap .experience {
     padding: 130px 90px;
     left: 45px;
     top: 15px;
@@ -3512,68 +3509,68 @@ textarea:-ms-input-placeholder {
 }
 
 @media only screen and (max-width: 991px) {
-  .techwix-service-section-07 {
+  .nomadscode-service-section-07 {
     padding-bottom: 100px;
   }
-  .techwix-service-section-07 .experience-wrap .shape-1 {
+  .nomadscode-service-section-07 .experience-wrap .shape-1 {
     left: 115px;
     transform: translateX(-50%);
   }
-  .techwix-service-section-07 .experience-wrap .experience {
+  .nomadscode-service-section-07 .experience-wrap .experience {
     left: 0;
     position: relative;
     margin: 0 auto;
   }
-  .techwix-service-section-07 .service-content {
+  .nomadscode-service-section-07 .service-content {
     margin-top: 110px;
   }
 }
 
 @media only screen and (max-width: 767px) {
-  .techwix-service-section-07 {
+  .nomadscode-service-section-07 {
     padding-bottom: 80px;
   }
-  .techwix-service-section-07 .experience-wrap .shape-1 {
+  .nomadscode-service-section-07 .experience-wrap .shape-1 {
     left: 30px;
     top: -50px;
   }
-  .techwix-service-section-07 .experience-wrap .experience {
+  .nomadscode-service-section-07 .experience-wrap .experience {
     width: 325px;
     height: 325px;
     padding: 105px 70px;
   }
-  .techwix-service-section-07 .experience-wrap .experience .number {
+  .nomadscode-service-section-07 .experience-wrap .experience .number {
     font-size: 150px;
   }
-  .techwix-service-section-07 .experience-wrap .experience span {
+  .nomadscode-service-section-07 .experience-wrap .experience span {
     font-size: 16px;
     margin-top: 50px;
   }
-  .techwix-service-section-07 .service-content {
+  .nomadscode-service-section-07 .service-content {
     margin-top: 120px;
   }
 }
 
 @media only screen and (max-width: 449px) {
-  .techwix-service-section-07 .experience-wrap .shape-1 {
+  .nomadscode-service-section-07 .experience-wrap .shape-1 {
     width: 350px;
     left: 0;
     top: -25px;
   }
-  .techwix-service-section-07 .experience-wrap .experience {
+  .nomadscode-service-section-07 .experience-wrap .experience {
     width: 290px;
     height: 290px;
     padding: 80px 65px;
     left: 0;
     top: 0;
   }
-  .techwix-service-section-07 .experience-wrap .experience .number {
+  .nomadscode-service-section-07 .experience-wrap .experience .number {
     font-size: 140px;
   }
-  .techwix-service-section-07 .experience-wrap .experience span {
+  .nomadscode-service-section-07 .experience-wrap .experience span {
     font-size: 16px;
   }
-  .techwix-service-section-07 .service-content {
+  .nomadscode-service-section-07 .service-content {
     margin-top: 85px;
   }
 }
@@ -3581,7 +3578,7 @@ textarea:-ms-input-placeholder {
 /*--
 /*  03 - CTA CSS
 /*----------------------------------------*/
-.techwix-cta-section .cta-wrap {
+.nomadscode-cta-section .cta-wrap {
   background: #e6f0fb;
   max-width: 845px;
   margin: 0 auto;
@@ -3591,18 +3588,18 @@ textarea:-ms-input-placeholder {
 }
 
 @media only screen and (max-width: 575px) {
-  .techwix-cta-section .cta-wrap {
+  .nomadscode-cta-section .cta-wrap {
     padding: 40px 90px;
   }
 }
 
 @media only screen and (max-width: 449px) {
-  .techwix-cta-section .cta-wrap {
+  .nomadscode-cta-section .cta-wrap {
     padding: 40px 70px;
   }
 }
 
-.techwix-cta-section .cta-wrap .cta-icon {
+.nomadscode-cta-section .cta-wrap .cta-icon {
   position: absolute;
   left: 30px;
   top: -60px;
@@ -3616,28 +3613,28 @@ textarea:-ms-input-placeholder {
 }
 
 @media only screen and (max-width: 991px) {
-  .techwix-cta-section .cta-wrap .cta-icon {
+  .nomadscode-cta-section .cta-wrap .cta-icon {
     top: -40px;
   }
 }
 
-.techwix-cta-section .cta-wrap .cta-content p {
+.nomadscode-cta-section .cta-wrap .cta-content p {
   font-size: 20px;
   line-height: 30px;
   font-weight: 500;
   color: #4c4d56;
 }
 
-.techwix-cta-section .cta-wrap .cta-content p a {
+.nomadscode-cta-section .cta-wrap .cta-content p a {
   font-weight: 600;
   color: #086ad8;
 }
 
-.techwix-cta-section .cta-wrap .cta-content p a:hover {
+.nomadscode-cta-section .cta-wrap .cta-content p a:hover {
   color: #0e0e0e;
 }
 
-.techwix-cta-section-02 .cta-wrap {
+.nomadscode-cta-section-02 .cta-wrap {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -3647,7 +3644,7 @@ textarea:-ms-input-placeholder {
   margin-bottom: -90px;
 }
 
-.techwix-cta-section-02 .cta-wrap .cta-content p {
+.nomadscode-cta-section-02 .cta-wrap .cta-content p {
   font-size: 30px;
   line-height: 44px;
   font-weight: 600;
@@ -3655,7 +3652,7 @@ textarea:-ms-input-placeholder {
   color: #ffffff;
 }
 
-.techwix-cta-section-02 .cta-wrap .cta-content .cta-icon {
+.nomadscode-cta-section-02 .cta-wrap .cta-content .cta-icon {
   width: 115px;
   height: 115px;
   line-height: 110px;
@@ -3667,52 +3664,52 @@ textarea:-ms-input-placeholder {
   background: #010f31;
 }
 
-.techwix-cta-section-02 .cta-wrap .cta-btn {
+.nomadscode-cta-section-02 .cta-wrap .cta-btn {
   text-align: right;
 }
 
-.techwix-cta-section-02 .cta-wrap .cta-btn .btn {
+.nomadscode-cta-section-02 .cta-wrap .cta-btn .btn {
   font-size: 22px;
   background: #ffffff;
   color: #0e0e0e;
   padding: 0 35px;
 }
 
-.techwix-cta-section-02 .cta-wrap .cta-btn .btn:hover {
+.nomadscode-cta-section-02 .cta-wrap .cta-btn .btn:hover {
   color: #ffffff;
 }
 
 @media only screen and (max-width: 991px) {
-  .techwix-cta-section-02 .cta-wrap .cta-content {
+  .nomadscode-cta-section-02 .cta-wrap .cta-content {
     text-align: center;
     margin-top: 40px;
   }
-  .techwix-cta-section-02 .cta-wrap .cta-content .cta-icon {
+  .nomadscode-cta-section-02 .cta-wrap .cta-content .cta-icon {
     left: 50%;
     transform: translateX(-50%);
   }
-  .techwix-cta-section-02 .cta-wrap .cta-content p {
+  .nomadscode-cta-section-02 .cta-wrap .cta-content p {
     padding-left: 0;
   }
-  .techwix-cta-section-02 .cta-wrap .cta-btn {
+  .nomadscode-cta-section-02 .cta-wrap .cta-btn {
     text-align: center;
     margin-top: 40px;
   }
 }
 
 @media only screen and (max-width: 767px) {
-  .techwix-cta-section-02 .cta-wrap {
+  .nomadscode-cta-section-02 .cta-wrap {
     padding: 55px 60px;
   }
 }
 
 @media only screen and (max-width: 449px) {
-  .techwix-cta-section-02 .cta-wrap {
+  .nomadscode-cta-section-02 .cta-wrap {
     padding: 55px 25px;
   }
 }
 
-.techwix-cta-section-03 .cta-wrap {
+.nomadscode-cta-section-03 .cta-wrap {
   padding: 90px 105px;
   border-radius: 10px;
   background: #0c155f;
@@ -3724,22 +3721,22 @@ textarea:-ms-input-placeholder {
   z-index: 5;
 }
 
-.techwix-cta-section-03 .cta-wrap .cta-content {
+.nomadscode-cta-section-03 .cta-wrap .cta-content {
   padding-right: 60px;
 }
 
 @media only screen and (max-width: 1399px) {
-  .techwix-cta-section-03 .cta-wrap .cta-content {
+  .nomadscode-cta-section-03 .cta-wrap .cta-content {
     padding-right: 30px;
   }
 }
 
-.techwix-cta-section-03 .cta-wrap .cta-content .title {
+.nomadscode-cta-section-03 .cta-wrap .cta-content .title {
   padding-left: 30px;
   position: relative;
 }
 
-.techwix-cta-section-03 .cta-wrap .cta-content .title::before {
+.nomadscode-cta-section-03 .cta-wrap .cta-content .title::before {
   content: "";
   position: absolute;
   left: 0px;
@@ -3750,7 +3747,7 @@ textarea:-ms-input-placeholder {
   transform: translateY(-45%);
 }
 
-.techwix-cta-section-03 .cta-wrap .cta-info p {
+.nomadscode-cta-section-03 .cta-wrap .cta-info p {
   font-size: 18px;
   line-height: 30px;
   font-family: "Barlow", sans-serif;
@@ -3759,7 +3756,7 @@ textarea:-ms-input-placeholder {
   margin-top: 10px;
 }
 
-.techwix-cta-section-03 .cta-wrap .cta-info .number {
+.nomadscode-cta-section-03 .cta-wrap .cta-info .number {
   font-size: 36px;
   line-height: 42px;
   font-weight: 700;
@@ -3767,47 +3764,47 @@ textarea:-ms-input-placeholder {
 }
 
 @media only screen and (max-width: 1199px) {
-  .techwix-cta-section-03 .cta-wrap .cta-content {
+  .nomadscode-cta-section-03 .cta-wrap .cta-content {
     padding-right: 0;
   }
 }
 
 @media only screen and (max-width: 991px) {
-  .techwix-cta-section-03 .cta-wrap {
+  .nomadscode-cta-section-03 .cta-wrap {
     padding: 90px 75px;
   }
-  .techwix-cta-section-03 .cta-wrap .cta-info {
+  .nomadscode-cta-section-03 .cta-wrap .cta-info {
     margin-top: 50px;
   }
 }
 
 @media only screen and (max-width: 449px) {
-  .techwix-cta-section-03 .cta-wrap {
+  .nomadscode-cta-section-03 .cta-wrap {
     padding: 70px 40px;
   }
-  .techwix-cta-section-03 .cta-wrap .cta-info .number {
+  .nomadscode-cta-section-03 .cta-wrap .cta-info .number {
     font-size: 28px;
     line-height: 40px;
   }
 }
 
-.techwix-cta-section-04 {
+.nomadscode-cta-section-04 {
   background: #0f0948;
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
 }
 
-.techwix-cta-section-04 .cta-left {
+.nomadscode-cta-section-04 .cta-left {
   padding-right: 115px;
 }
 
-.techwix-cta-section-04 .cta-left .section-title .title {
+.nomadscode-cta-section-04 .cta-left .section-title .title {
   position: relative;
   padding-left: 40px;
 }
 
-.techwix-cta-section-04 .cta-left .section-title .title::before {
+.nomadscode-cta-section-04 .cta-left .section-title .title::before {
   content: "";
   position: absolute;
   left: 0px;
@@ -3818,37 +3815,37 @@ textarea:-ms-input-placeholder {
   transform: translateY(-45%);
 }
 
-.techwix-cta-section-04 .cta-left .cta-info {
+.nomadscode-cta-section-04 .cta-left .cta-info {
   display: flex;
   align-items: center;
   margin-top: 60px;
 }
 
-.techwix-cta-section-04 .cta-left .cta-info .cta-text {
+.nomadscode-cta-section-04 .cta-left .cta-info .cta-text {
   flex: 1;
   margin-left: 30px;
 }
 
-.techwix-cta-section-04 .cta-left .cta-info .cta-text p {
+.nomadscode-cta-section-04 .cta-left .cta-info .cta-text p {
   font-size: 14px;
   line-height: 30px;
   color: #ffffff;
 }
 
-.techwix-cta-section-04 .cta-left .cta-info .cta-text .number {
+.nomadscode-cta-section-04 .cta-left .cta-info .cta-text .number {
   font-size: 24px;
   line-height: 30px;
   color: #ffffff;
 }
 
-.techwix-cta-section-04 .cta-right {
+.nomadscode-cta-section-04 .cta-right {
   display: flex;
   justify-content: space-between;
   position: relative;
   max-width: 360px;
 }
 
-.techwix-cta-section-04 .cta-right::before {
+.nomadscode-cta-section-04 .cta-right::before {
   content: "";
   position: absolute;
   left: 0;
@@ -3859,7 +3856,7 @@ textarea:-ms-input-placeholder {
   transform: translateY(-50%);
 }
 
-.techwix-cta-section-04 .cta-right::after {
+.nomadscode-cta-section-04 .cta-right::after {
   content: "";
   position: absolute;
   left: 50%;
@@ -3870,16 +3867,16 @@ textarea:-ms-input-placeholder {
   transform: translate(-50%, -50%);
 }
 
-.techwix-cta-section-04 .cta-right .counter-item-box {
+.nomadscode-cta-section-04 .cta-right .counter-item-box {
   position: relative;
 }
 
-.techwix-cta-section-04 .cta-right .counter-item.counter-1, .techwix-cta-section-04 .cta-right .counter-item.counter-2 {
+.nomadscode-cta-section-04 .cta-right .counter-item.counter-1, .nomadscode-cta-section-04 .cta-right .counter-item.counter-2 {
   padding-top: 45px;
   margin-top: 25px;
 }
 
-.techwix-cta-section-04 .cta-right .counter-item span {
+.nomadscode-cta-section-04 .cta-right .counter-item span {
   font-size: 48px;
   line-height: 26px;
   font-family: "Barlow", sans-serif;
@@ -3887,7 +3884,7 @@ textarea:-ms-input-placeholder {
   color: #11ddf5;
 }
 
-.techwix-cta-section-04 .cta-right .counter-item p {
+.nomadscode-cta-section-04 .cta-right .counter-item p {
   font-size: 12px;
   line-height: 26px;
   font-weight: 700;
@@ -3896,27 +3893,27 @@ textarea:-ms-input-placeholder {
 }
 
 @media only screen and (max-width: 1199px) {
-  .techwix-cta-section-04 .cta-left {
+  .nomadscode-cta-section-04 .cta-left {
     padding-right: 0px;
   }
-  .techwix-cta-section-04 .cta-right {
+  .nomadscode-cta-section-04 .cta-right {
     margin-top: 65px;
   }
-  .techwix-cta-section-04 .cta-right::before {
+  .nomadscode-cta-section-04 .cta-right::before {
     width: 320px;
   }
-  .techwix-cta-section-04 .cta-right::after {
+  .nomadscode-cta-section-04 .cta-right::after {
     height: 240px;
   }
 }
 
 @media only screen and (max-width: 767px) {
-  .techwix-cta-section-04 .cta-right .counter-item span {
+  .nomadscode-cta-section-04 .cta-right .counter-item span {
     font-size: 42px;
   }
 }
 
-.techwix-cta-section-05 .cta-wrap {
+.nomadscode-cta-section-05 .cta-wrap {
   background: #0f0948;
   background-repeat: no-repeat;
   background-size: cover;
@@ -3928,14 +3925,14 @@ textarea:-ms-input-placeholder {
   padding: 80px 110px 105px;
 }
 
-.techwix-cta-section-05 .cta-wrap .cta-content .title {
+.nomadscode-cta-section-05 .cta-wrap .cta-content .title {
   font-size: 42px;
   line-height: 54px;
   font-weight: 600;
   color: #ffffff;
 }
 
-.techwix-cta-section-05 .cta-wrap .cta-content .cta-btn .btn-4 {
+.nomadscode-cta-section-05 .cta-wrap .cta-content .cta-btn .btn-4 {
   height: 45px;
   line-height: 45px;
   font-size: 15px;
@@ -3944,32 +3941,32 @@ textarea:-ms-input-placeholder {
 }
 
 @media only screen and (max-width: 1199px) {
-  .techwix-cta-section-05 .cta-wrap {
+  .nomadscode-cta-section-05 .cta-wrap {
     padding: 80px 75px 80px;
   }
 }
 
 @media only screen and (max-width: 767px) {
-  .techwix-cta-section-05 .cta-wrap {
+  .nomadscode-cta-section-05 .cta-wrap {
     padding: 70px 70px 70px;
   }
-  .techwix-cta-section-05 .cta-wrap .cta-content .title {
+  .nomadscode-cta-section-05 .cta-wrap .cta-content .title {
     font-size: 36px;
     line-height: 48px;
   }
 }
 
 @media only screen and (max-width: 449px) {
-  .techwix-cta-section-05 .cta-wrap {
+  .nomadscode-cta-section-05 .cta-wrap {
     padding: 70px 50px 70px;
   }
-  .techwix-cta-section-05 .cta-wrap .cta-content .title {
+  .nomadscode-cta-section-05 .cta-wrap .cta-content .title {
     font-size: 32px;
     line-height: 44px;
   }
 }
 
-.techwix-cta-section-06 {
+.nomadscode-cta-section-06 {
   background: #010f31;
   background-repeat: no-repeat;
   background-size: cover;
@@ -3977,23 +3974,23 @@ textarea:-ms-input-placeholder {
 }
 
 @media only screen and (max-width: 991px) {
-  .techwix-cta-section-06 .cta-info {
+  .nomadscode-cta-section-06 .cta-info {
     margin-top: 50px;
   }
 }
 
-.techwix-cta-section-06 .cta-info .cta-text {
+.nomadscode-cta-section-06 .cta-info .cta-text {
   margin-left: 30px;
   margin-top: 10px;
 }
 
 @media only screen and (max-width: 991px) {
-  .techwix-cta-section-06 .cta-info .cta-text {
+  .nomadscode-cta-section-06 .cta-info .cta-text {
     margin-left: 0;
   }
 }
 
-.techwix-cta-section-06 .cta-info .cta-text p {
+.nomadscode-cta-section-06 .cta-info .cta-text p {
   font-size: 18px;
   line-height: 30px;
   font-family: "Barlow", sans-serif;
@@ -4001,17 +3998,17 @@ textarea:-ms-input-placeholder {
   color: #ffffff;
 }
 
-.techwix-cta-section-06 .cta-info .cta-text .number {
+.nomadscode-cta-section-06 .cta-info .cta-text .number {
   font-size: 36px;
   line-height: 42px;
   color: #086ad8;
 }
 
-.techwix-cta-section-07 {
+.nomadscode-cta-section-07 {
   background: none;
 }
 
-.techwix-cta-section-07 .cta-wrap {
+.nomadscode-cta-section-07 .cta-wrap {
   background: #010f31;
   padding: 105px;
   border-radius: 10px;
@@ -4024,35 +4021,35 @@ textarea:-ms-input-placeholder {
 }
 
 @media only screen and (max-width: 1199px) {
-  .techwix-cta-section-07 .cta-info .cta-text {
+  .nomadscode-cta-section-07 .cta-info .cta-text {
     margin-left: 0px;
   }
 }
 
 @media only screen and (max-width: 991px) {
-  .techwix-cta-section-07 .cta-info {
+  .nomadscode-cta-section-07 .cta-info {
     margin-top: 50px;
   }
 }
 
 @media only screen and (max-width: 767px) {
-  .techwix-cta-section-07 .cta-wrap {
+  .nomadscode-cta-section-07 .cta-wrap {
     padding: 80px;
   }
 }
 
 @media only screen and (max-width: 575px) {
-  .techwix-cta-section-07 .cta-wrap {
+  .nomadscode-cta-section-07 .cta-wrap {
     padding: 60px;
   }
-  .techwix-cta-section-07 .cta-info .cta-text .number {
+  .nomadscode-cta-section-07 .cta-info .cta-text .number {
     font-size: 28px;
     line-height: 40px;
   }
 }
 
 @media only screen and (max-width: 449px) {
-  .techwix-cta-section-07 .cta-wrap {
+  .nomadscode-cta-section-07 .cta-wrap {
     padding: 45px;
   }
 }
@@ -4060,7 +4057,7 @@ textarea:-ms-input-placeholder {
 /*--
 /*  03 - About CSS
 /*----------------------------------------*/
-.techwix-about-section {
+.nomadscode-about-section {
   background: #0c0520;
   padding-top: 200px;
   background-repeat: no-repeat;
@@ -4070,7 +4067,7 @@ textarea:-ms-input-placeholder {
   overflow: hidden;
 }
 
-.techwix-about-section .shape-1 {
+.nomadscode-about-section .shape-1 {
   position: absolute;
   width: 100%;
   height: 130px;
@@ -4083,25 +4080,25 @@ textarea:-ms-input-placeholder {
   z-index: 2;
 }
 
-.techwix-about-section .about-img-wrap {
+.nomadscode-about-section .about-img-wrap {
   position: relative;
 }
 
-.techwix-about-section .about-img-wrap .about-img img {
+.nomadscode-about-section .about-img-wrap .about-img img {
   border-radius: 10px;
 }
 
-.techwix-about-section .about-img-wrap .about-img.about-img-big {
+.nomadscode-about-section .about-img-wrap .about-img.about-img-big {
   padding-top: 80px;
 }
 
-.techwix-about-section .about-img-wrap .about-img.about-img-sm {
+.nomadscode-about-section .about-img-wrap .about-img.about-img-sm {
   position: absolute;
   top: 0px;
   right: 0;
 }
 
-.techwix-about-section .about-img-wrap .about-img.about-img-sm .shape-01 {
+.nomadscode-about-section .about-img-wrap .about-img.about-img-sm .shape-01 {
   position: absolute;
   width: 9px;
   height: 235px;
@@ -4110,19 +4107,19 @@ textarea:-ms-input-placeholder {
   bottom: -270px;
 }
 
-.techwix-about-section .about-content-wrap {
+.nomadscode-about-section .about-content-wrap {
   padding-left: 100px;
 }
 
-.techwix-about-section .about-content-wrap .section-title .title {
+.nomadscode-about-section .about-content-wrap .section-title .title {
   color: #ffffff;
 }
 
-.techwix-about-section .about-content-wrap .section-title .sub-title {
+.nomadscode-about-section .about-content-wrap .section-title .sub-title {
   color: #ffffff;
 }
 
-.techwix-about-section .about-content-wrap p {
+.nomadscode-about-section .about-content-wrap p {
   font-size: 16px;
   line-height: 30px;
   color: #ffffff;
@@ -4130,15 +4127,15 @@ textarea:-ms-input-placeholder {
   margin-top: 20px;
 }
 
-.techwix-about-section .about-content-wrap .play-btn {
+.nomadscode-about-section .about-content-wrap .play-btn {
   margin-top: 60px;
 }
 
-.techwix-about-section .about-content-wrap .play-btn a {
+.nomadscode-about-section .about-content-wrap .play-btn a {
   position: relative;
 }
 
-.techwix-about-section .about-content-wrap .play-btn a i {
+.nomadscode-about-section .about-content-wrap .play-btn a i {
   width: 80px;
   height: 80px;
   line-height: 80px;
@@ -4151,7 +4148,7 @@ textarea:-ms-input-placeholder {
   transition: all 0.3s linear;
 }
 
-.techwix-about-section .about-content-wrap .play-btn a span {
+.nomadscode-about-section .about-content-wrap .play-btn a span {
   font-size: 24px;
   font-family: "Barlow", sans-serif;
   font-weight: 600;
@@ -4159,7 +4156,7 @@ textarea:-ms-input-placeholder {
   margin-left: 30px;
 }
 
-.techwix-about-section .about-content-wrap .play-btn a::before {
+.nomadscode-about-section .about-content-wrap .play-btn a::before {
   content: "";
   border: 2px solid #ffffff;
   position: absolute;
@@ -4177,7 +4174,7 @@ textarea:-ms-input-placeholder {
           animation-delay: .8s;
 }
 
-.techwix-about-section .about-content-wrap .play-btn a::after {
+.nomadscode-about-section .about-content-wrap .play-btn a::after {
   content: "";
   border: 2px solid #ffffff;
   position: absolute;
@@ -4195,47 +4192,47 @@ textarea:-ms-input-placeholder {
           animation-delay: 0s;
 }
 
-.techwix-about-section .about-content-wrap .play-btn a:hover i {
+.nomadscode-about-section .about-content-wrap .play-btn a:hover i {
   background: linear-gradient(180deg, #086ad8 0%, #42b9ff 100%);
 }
 
 @media only screen and (max-width: 1199px) {
-  .techwix-about-section {
+  .nomadscode-about-section {
     padding-top: 165px;
   }
-  .techwix-about-section .shape-1 {
+  .nomadscode-about-section .shape-1 {
     top: -60px;
   }
-  .techwix-about-section .about-img-wrap .about-img.about-img-sm {
+  .nomadscode-about-section .about-img-wrap .about-img.about-img-sm {
     right: -25px;
   }
-  .techwix-about-section .about-img-wrap .about-img.about-img-sm .shape-01 {
+  .nomadscode-about-section .about-img-wrap .about-img.about-img-sm .shape-01 {
     height: 190px;
     bottom: -228px;
   }
-  .techwix-about-section .about-content-wrap {
+  .nomadscode-about-section .about-content-wrap {
     padding-left: 50px;
   }
 }
 
 @media only screen and (max-width: 991px) {
-  .techwix-about-section {
+  .nomadscode-about-section {
     padding-top: 135px;
   }
-  .techwix-about-section .about-content-wrap {
+  .nomadscode-about-section .about-content-wrap {
     padding-left: 0px;
     margin-top: 50px;
   }
 }
 
 @media only screen and (max-width: 575px) {
-  .techwix-about-section {
+  .nomadscode-about-section {
     padding-top: 150px;
   }
-  .techwix-about-section .about-img-wrap .about-img.about-img-big {
+  .nomadscode-about-section .about-img-wrap .about-img.about-img-big {
     padding-top: 0px;
   }
-  .techwix-about-section .about-img-wrap .about-img.about-img-sm {
+  .nomadscode-about-section .about-img-wrap .about-img.about-img-sm {
     display: none;
   }
 }
@@ -4280,37 +4277,37 @@ textarea:-ms-input-placeholder {
   }
 }
 
-.techwix-about-section-02 .about-02-left {
+.nomadscode-about-section-02 .about-02-left {
   padding: 0 35px;
 }
 
-.techwix-about-section-02 .about-02-left .section-title .title {
+.nomadscode-about-section-02 .about-02-left .section-title .title {
   font-size: 42px;
   line-height: 60px;
 }
 
-.techwix-about-section-02 .about-02-left .about-author {
+.nomadscode-about-section-02 .about-02-left .about-author {
   margin-top: 30px;
 }
 
-.techwix-about-section-02 .about-02-left .about-author .name {
+.nomadscode-about-section-02 .about-02-left .about-author .name {
   font-size: 16px;
   line-height: 24px;
   margin-top: 20px;
 }
 
-.techwix-about-section-02 .about-02-left .about-author .designation {
+.nomadscode-about-section-02 .about-02-left .about-author .designation {
   font-size: 12px;
   line-height: 18px;
   color: #4c4d56;
 }
 
-.techwix-about-section-02 .about-02-right {
+.nomadscode-about-section-02 .about-02-right {
   position: relative;
   padding-left: 112px;
 }
 
-.techwix-about-section-02 .about-02-right::before {
+.nomadscode-about-section-02 .about-02-right::before {
   content: "";
   position: absolute;
   left: 0;
@@ -4320,7 +4317,7 @@ textarea:-ms-input-placeholder {
   height: 350px;
 }
 
-.techwix-about-section-02 .about-02-right p {
+.nomadscode-about-section-02 .about-02-right p {
   font-size: 16px;
   line-height: 30px;
   color: #4c4d56;
@@ -4345,54 +4342,54 @@ textarea:-ms-input-placeholder {
 }
 
 @media only screen and (max-width: 1199px) {
-  .techwix-about-section-02 .about-02-right {
+  .nomadscode-about-section-02 .about-02-right {
     padding-left: 80px;
   }
 }
 
 @media only screen and (max-width: 991px) {
-  .techwix-about-section-02 .about-02-left {
+  .nomadscode-about-section-02 .about-02-left {
     padding: 0 0px;
   }
-  .techwix-about-section-02 .about-02-right {
+  .nomadscode-about-section-02 .about-02-right {
     padding-left: 0px;
     margin-top: 50px;
   }
-  .techwix-about-section-02 .about-02-right::before {
+  .nomadscode-about-section-02 .about-02-right::before {
     display: none;
   }
 }
 
 @media only screen and (max-width: 767px) {
-  .techwix-about-section-02 .about-02-left .section-title .title {
+  .nomadscode-about-section-02 .about-02-left .section-title .title {
     font-size: 36px;
     line-height: 52px;
   }
 }
 
 @media only screen and (max-width: 575px) {
-  .techwix-about-section-02 .about-02-left .section-title .title {
+  .nomadscode-about-section-02 .about-02-left .section-title .title {
     font-size: 30px;
     line-height: 48px;
   }
 }
 
-.techwix-about-section-03 {
+.nomadscode-about-section-03 {
   overflow: hidden;
   padding-bottom: 180px;
 }
 
-.techwix-about-section-03 .about-content-03 {
+.nomadscode-about-section-03 .about-content-03 {
   padding-right: 145px;
 }
 
-.techwix-about-section-03 .about-content-03 .text {
+.nomadscode-about-section-03 .about-content-03 .text {
   font-size: 16px;
   line-height: 30px;
   margin-top: 20px;
 }
 
-.techwix-about-section-03 .about-content-03 .about-quote {
+.nomadscode-about-section-03 .about-content-03 .about-quote {
   background: #fff6f5;
   padding: 40px 30px;
   padding-right: 85px;
@@ -4400,13 +4397,13 @@ textarea:-ms-input-placeholder {
   margin-top: 30px;
 }
 
-.techwix-about-section-03 .about-content-03 .about-quote .blockquote {
+.nomadscode-about-section-03 .about-content-03 .about-quote .blockquote {
   padding-left: 60px;
   margin-bottom: 0;
   position: relative;
 }
 
-.techwix-about-section-03 .about-content-03 .about-quote .blockquote::before {
+.nomadscode-about-section-03 .about-content-03 .about-quote .blockquote::before {
   content: '\f115';
   font-family: flaticon !important;
   font-size: 40px;
@@ -4415,149 +4412,149 @@ textarea:-ms-input-placeholder {
   position: absolute;
   top: 0;
   left: 0;
-  color: #ff5538;
+  color: #2d7228;
 }
 
-.techwix-about-section-03 .about-content-03 .about-quote .blockquote p {
+.nomadscode-about-section-03 .about-content-03 .about-quote .blockquote p {
   font-size: 16px;
   font-weight: 500;
   line-height: 30px;
   color: #0e0e0e;
 }
 
-.techwix-about-section-03 .about-content-03 .about-list-02 {
+.nomadscode-about-section-03 .about-content-03 .about-list-02 {
   padding-top: 20px;
   padding-right: 25px;
 }
 
-.techwix-about-section-03 .about-content-03 .about-list-02 .about-list-item-02 {
+.nomadscode-about-section-03 .about-content-03 .about-list-02 .about-list-item-02 {
   margin-top: 20px;
 }
 
-.techwix-about-section-03 .about-content-03 .about-list-02 .about-list-item-02 .title {
+.nomadscode-about-section-03 .about-content-03 .about-list-02 .about-list-item-02 .title {
   font-size: 18px;
   line-height: 30px;
   color: #231e32;
 }
 
-.techwix-about-section-03 .about-content-03 .about-list-02 .about-list-item-02 .title i {
-  color: #ff5538;
+.nomadscode-about-section-03 .about-content-03 .about-list-02 .about-list-item-02 .title i {
+  color: #2d7228;
   margin-right: 7px;
 }
 
-.techwix-about-section-03 .about-content-03 .about-list-02 .about-list-item-02 P {
+.nomadscode-about-section-03 .about-content-03 .about-list-02 .about-list-item-02 P {
   font-size: 16px;
   line-height: 26px;
   margin-top: 10px;
 }
 
-.techwix-about-section-03 .about-img-warp-3 {
+.nomadscode-about-section-03 .about-img-warp-3 {
   position: relative;
   z-index: 1;
 }
 
-.techwix-about-section-03 .about-img-warp-3 .shape-1 {
+.nomadscode-about-section-03 .about-img-warp-3 .shape-1 {
   width: 520px;
   height: 490px;
-  background: #ff5538;
+  background: #2d7228;
   position: absolute;
   left: 85px;
   bottom: -30px;
   z-index: -1;
 }
 
-.techwix-about-section-03 .about-img-warp-3 .about-img img {
+.nomadscode-about-section-03 .about-img-warp-3 .about-img img {
   border-radius: 10px;
 }
 
-.techwix-about-section-03 .about-img-warp-3 .about-img-big {
+.nomadscode-about-section-03 .about-img-warp-3 .about-img-big {
   text-align: right;
 }
 
-.techwix-about-section-03 .about-img-warp-3 .about-img-sm {
+.nomadscode-about-section-03 .about-img-warp-3 .about-img-sm {
   position: absolute;
   left: 0px;
   bottom: -65px;
 }
 
 @media only screen and (max-width: 1399px) {
-  .techwix-about-section-03 .about-content-03 {
+  .nomadscode-about-section-03 .about-content-03 {
     padding-right: 60px;
   }
 }
 
 @media only screen and (max-width: 1199px) {
-  .techwix-about-section-03 {
+  .nomadscode-about-section-03 {
     padding-bottom: 100px;
   }
-  .techwix-about-section-03 .about-content-03 {
+  .nomadscode-about-section-03 .about-content-03 {
     padding-right: 40px;
   }
 }
 
 @media only screen and (max-width: 991px) {
-  .techwix-about-section-03 {
+  .nomadscode-about-section-03 {
     padding-bottom: 180px;
   }
-  .techwix-about-section-03 .about-content-03 {
+  .nomadscode-about-section-03 .about-content-03 {
     padding-right: 140px;
     margin-bottom: 60px;
   }
 }
 
 @media only screen and (max-width: 767px) {
-  .techwix-about-section-03 {
+  .nomadscode-about-section-03 {
     padding-bottom: 150px;
   }
-  .techwix-about-section-03 .about-content-03 {
+  .nomadscode-about-section-03 .about-content-03 {
     padding-right: 0px;
   }
-  .techwix-about-section-03 .about-img-warp-3 .shape-1 {
+  .nomadscode-about-section-03 .about-img-warp-3 .shape-1 {
     left: 25px;
   }
 }
 
 @media only screen and (max-width: 575px) {
-  .techwix-about-section-03 {
+  .nomadscode-about-section-03 {
     padding-bottom: 70px;
   }
-  .techwix-about-section-03 .about-content-03 .about-quote {
+  .nomadscode-about-section-03 .about-content-03 .about-quote {
     padding-right: 35px;
   }
-  .techwix-about-section-03 .about-img-warp-3 .shape-1 {
+  .nomadscode-about-section-03 .about-img-warp-3 .shape-1 {
     display: none;
   }
-  .techwix-about-section-03 .about-img-warp-3 .about-img-big {
+  .nomadscode-about-section-03 .about-img-warp-3 .about-img-big {
     text-align: center;
   }
-  .techwix-about-section-03 .about-img-warp-3 .about-img-sm {
+  .nomadscode-about-section-03 .about-img-warp-3 .about-img-sm {
     display: none;
   }
 }
 
-.techwix-about-section-04 .about-content-wrap {
+.nomadscode-about-section-04 .about-content-wrap {
   padding-right: 105px;
 }
 
-.techwix-about-section-04 .about-content-wrap .text {
+.nomadscode-about-section-04 .about-content-wrap .text {
   font-size: 16px;
   line-height: 30px;
   margin-top: 30px;
 }
 
-.techwix-about-section-04 .about-img-wrap {
+.nomadscode-about-section-04 .about-img-wrap {
   position: relative;
 }
 
-.techwix-about-section-04 .about-img-wrap .about-img img {
+.nomadscode-about-section-04 .about-img-wrap .about-img img {
   border-radius: 10px;
 }
 
-.techwix-about-section-04 .about-img-wrap .about-img-big {
+.nomadscode-about-section-04 .about-img-wrap .about-img-big {
   text-align: right;
 }
 
-.techwix-about-section-04 .about-img-wrap .about-img-sm {
+.nomadscode-about-section-04 .about-img-wrap .about-img-sm {
   position: absolute;
   left: -15px;
   bottom: 35px;
@@ -4687,40 +4684,40 @@ textarea:-ms-input-placeholder {
 }
 
 @media only screen and (max-width: 1199px) {
-  .techwix-about-section-04 .about-content-wrap {
+  .nomadscode-about-section-04 .about-content-wrap {
     padding-right: 40px;
   }
 }
 
 @media only screen and (max-width: 991px) {
-  .techwix-about-section-04 .about-img-wrap {
+  .nomadscode-about-section-04 .about-img-wrap {
     margin-top: 60px;
   }
-  .techwix-about-section-04 .play-btn-02 {
+  .nomadscode-about-section-04 .play-btn-02 {
     left: 22%;
   }
 }
 
 @media only screen and (max-width: 767px) {
-  .techwix-about-section-04 .play-btn-02 {
+  .nomadscode-about-section-04 .play-btn-02 {
     left: 2%;
   }
 }
 
 @media only screen and (max-width: 575px) {
-  .techwix-about-section-04 .about-content-wrap {
+  .nomadscode-about-section-04 .about-content-wrap {
     padding-right: 0px;
   }
-  .techwix-about-section-04 .about-img-wrap {
+  .nomadscode-about-section-04 .about-img-wrap {
     position: relative;
   }
-  .techwix-about-section-04 .about-img-wrap .about-img-big {
+  .nomadscode-about-section-04 .about-img-wrap .about-img-big {
     text-align: center;
   }
-  .techwix-about-section-04 .about-img-wrap .about-img-sm {
+  .nomadscode-about-section-04 .about-img-wrap .about-img-sm {
     display: none;
   }
-  .techwix-about-section-04 .play-btn-02 {
+  .nomadscode-about-section-04 .play-btn-02 {
     position: absolute;
     left: 50%;
     top: 50%;
@@ -4728,115 +4725,115 @@ textarea:-ms-input-placeholder {
   }
 }
 
-.techwix-about-section-05 .section-title {
+.nomadscode-about-section-05 .section-title {
   max-width: 1060px;
   margin: 0 auto;
 }
 
-.techwix-about-section-05 .about-img-wrap {
+.nomadscode-about-section-05 .about-img-wrap {
   position: relative;
 }
 
-.techwix-about-section-05 .about-img-wrap .about-img img {
+.nomadscode-about-section-05 .about-img-wrap .about-img img {
   border-radius: 15px;
 }
 
-.techwix-about-section-05 .about-img-wrap .about-img-big {
+.nomadscode-about-section-05 .about-img-wrap .about-img-big {
   text-align: right;
 }
 
-.techwix-about-section-05 .about-img-wrap .about-img-sm {
+.nomadscode-about-section-05 .about-img-wrap .about-img-sm {
   position: absolute;
   top: 80px;
   left: 0;
 }
 
-.techwix-about-section-05 .about-content-wrap {
+.nomadscode-about-section-05 .about-content-wrap {
   padding-top: 100px;
 }
 
-.techwix-about-section-05 .about-content {
+.nomadscode-about-section-05 .about-content {
   padding-left: 120px;
 }
 
-.techwix-about-section-05 .about-content .title {
+.nomadscode-about-section-05 .about-content .title {
   font-size: 24px;
   line-height: 40px;
   font-weight: 500;
   color: #0e0e0e;
 }
 
-.techwix-about-section-05 .about-content .text {
+.nomadscode-about-section-05 .about-content .text {
   font-size: 16px;
   line-height: 30px;
   margin-top: 30px;
 }
 
-.techwix-about-section-05 .about-content .about-list-item-wrap {
+.nomadscode-about-section-05 .about-content .about-list-item-wrap {
   margin-top: -20px;
 }
 
-.techwix-about-section-05 .about-content .about-list-item-wrap .about-list-item {
+.nomadscode-about-section-05 .about-content .about-list-item-wrap .about-list-item {
   display: flex;
   align-items: center;
   margin-top: 50px;
 }
 
-.techwix-about-section-05 .about-content .about-list-item-wrap .about-list-item .about-text {
+.nomadscode-about-section-05 .about-content .about-list-item-wrap .about-list-item .about-text {
   flex: 1;
   margin-left: 20px;
 }
 
-.techwix-about-section-05 .about-content .about-list-item-wrap .about-list-item .about-text .title {
+.nomadscode-about-section-05 .about-content .about-list-item-wrap .about-list-item .about-text .title {
   font-size: 18px;
   line-height: 30px;
   font-weight: 600;
 }
 
-.techwix-about-section-05 .about-content .about-list-item-wrap .about-list-item .about-text p {
+.nomadscode-about-section-05 .about-content .about-list-item-wrap .about-list-item .about-text p {
   font-size: 14px;
   line-height: 27px;
 }
 
 @media only screen and (max-width: 1199px) {
-  .techwix-about-section-05 .about-content-wrap {
+  .nomadscode-about-section-05 .about-content-wrap {
     padding-top: 80px;
   }
-  .techwix-about-section-05 .about-content {
+  .nomadscode-about-section-05 .about-content {
     padding-left: 60px;
   }
 }
 
 @media only screen and (max-width: 991px) {
-  .techwix-about-section-05 .about-content-wrap {
+  .nomadscode-about-section-05 .about-content-wrap {
     padding-top: 60px;
   }
-  .techwix-about-section-05 .about-img-wrap .about-img-big {
+  .nomadscode-about-section-05 .about-img-wrap .about-img-big {
     text-align: center;
   }
-  .techwix-about-section-05 .about-content {
+  .nomadscode-about-section-05 .about-content {
     padding-left: 0px;
     margin-top: 60px;
   }
 }
 
 @media only screen and (max-width: 575px) {
-  .techwix-about-section-05 .about-img-wrap .about-img-sm {
+  .nomadscode-about-section-05 .about-img-wrap .about-img-sm {
     display: none;
   }
 }
 
-.techwix-about-section-06 {
+.nomadscode-about-section-06 {
   padding-bottom: 200px;
 }
 
-.techwix-about-section-06 .about-img {
+.nomadscode-about-section-06 .about-img {
   position: relative;
   margin-top: 70px;
   z-index: 1;
 }
 
-.techwix-about-section-06 .about-img .shape-1 {
+.nomadscode-about-section-06 .about-img .shape-1 {
   position: absolute;
   left: 0;
   top: -25%;
@@ -4845,13 +4842,13 @@ textarea:-ms-input-placeholder {
   z-index: -1;
 }
 
-.techwix-about-section-06 .about-img .play-btn {
+.nomadscode-about-section-06 .about-img .play-btn {
   position: absolute;
   top: -25px;
   right: 135px;
 }
 
-.techwix-about-section-06 .about-img .play-btn a {
+.nomadscode-about-section-06 .about-img .play-btn a {
   width: 80px;
   height: 80px;
   line-height: 68px;
@@ -4864,44 +4861,44 @@ textarea:-ms-input-placeholder {
   color: #ffffff;
 }
 
-.techwix-about-section-06 .about-img .play-btn a:hover {
+.nomadscode-about-section-06 .about-img .play-btn a:hover {
   background: #0f0948;
   color: #ffffff;
 }
 
-.techwix-about-section-06 .about-img .image {
+.nomadscode-about-section-06 .about-img .image {
   padding-left: 70px;
 }
 
-.techwix-about-section-06 .about-img .image img {
+.nomadscode-about-section-06 .about-img .image img {
   border-radius: 50%;
 }
 
-.techwix-about-section-06 .about-content-wrap {
+.nomadscode-about-section-06 .about-content-wrap {
   padding-right: 115px;
 }
 
-.techwix-about-section-06 .about-content-wrap .text {
+.nomadscode-about-section-06 .about-content-wrap .text {
   font-size: 16px;
   line-height: 30px;
   margin-top: 25px;
 }
 
-.techwix-about-section-06 .about-content-wrap .about-list-wrap {
+.nomadscode-about-section-06 .about-content-wrap .about-list-wrap {
   padding-top: 50px;
 }
 
-.techwix-about-section-06 .about-content-wrap .about-list-wrap .about-list li {
+.nomadscode-about-section-06 .about-content-wrap .about-list-wrap .about-list li {
   border-bottom: 1px solid #ebebeb;
   margin-bottom: 15px;
   padding-bottom: 15px;
 }
 
-.techwix-about-section-06 .about-content-wrap .about-list-wrap .about-list li:last-child {
+.nomadscode-about-section-06 .about-content-wrap .about-list-wrap .about-list li:last-child {
   margin-bottom: 0;
 }
 
-.techwix-about-section-06 .about-content-wrap .about-list-wrap .about-list li a {
+.nomadscode-about-section-06 .about-content-wrap .about-list-wrap .about-list li a {
   font-size: 20px;
   line-height: 30px;
   font-family: "Barlow", sans-serif;
@@ -4910,184 +4907,184 @@ textarea:-ms-input-placeholder {
 }
 
 @media only screen and (max-width: 575px) {
-  .techwix-about-section-06 .about-content-wrap .about-list-wrap .about-list li a {
+  .nomadscode-about-section-06 .about-content-wrap .about-list-wrap .about-list li a {
     font-size: 18px;
   }
 }
 
-.techwix-about-section-06 .about-content-wrap .about-list-wrap .about-list li a:hover {
+.nomadscode-about-section-06 .about-content-wrap .about-list-wrap .about-list li a:hover {
   color: #11ddf5;
 }
 
-.techwix-about-section-06 .about-content-wrap .about-list-wrap .about-list li a:hover i {
+.nomadscode-about-section-06 .about-content-wrap .about-list-wrap .about-list li a:hover i {
   transform: translateX(20px);
 }
 
-.techwix-about-section-06 .about-content-wrap .about-list-wrap .about-list li a i {
+.nomadscode-about-section-06 .about-content-wrap .about-list-wrap .about-list li a i {
   transform: translateX(15px);
   transition: all 0.3s linear;
 }
 
 @media only screen and (max-width: 1199px) {
-  .techwix-about-section-06 {
+  .nomadscode-about-section-06 {
     padding-bottom: 100px;
   }
-  .techwix-about-section-06 .about-img .shape-1 {
+  .nomadscode-about-section-06 .about-img .shape-1 {
     top: -13%;
   }
-  .techwix-about-section-06 .about-img .image {
+  .nomadscode-about-section-06 .about-img .image {
     padding-left: 30px;
   }
-  .techwix-about-section-06 .about-content-wrap {
+  .nomadscode-about-section-06 .about-content-wrap {
     padding-right: 0px;
   }
 }
 
 @media only screen and (max-width: 991px) {
-  .techwix-about-section-06 .about-img .shape-1 {
+  .nomadscode-about-section-06 .about-img .shape-1 {
     top: -25%;
     left: 11%;
   }
-  .techwix-about-section-06 .about-img .image {
+  .nomadscode-about-section-06 .about-img .image {
     text-align: center;
     padding-left: 0px;
   }
-  .techwix-about-section-06 .about-content-wrap {
+  .nomadscode-about-section-06 .about-content-wrap {
     margin-top: 150px;
   }
-  .techwix-about-section-06 .about-content-wrap .about-list-wrap {
+  .nomadscode-about-section-06 .about-content-wrap .about-list-wrap {
     padding-top: 30px;
   }
 }
 
 @media only screen and (max-width: 767px) {
-  .techwix-about-section-06 .about-img .shape-1 {
+  .nomadscode-about-section-06 .about-img .shape-1 {
     top: -20%;
     left: 0;
   }
 }
 
 @media only screen and (max-width: 575px) {
-  .techwix-about-section-06 .about-img .shape-1 {
+  .nomadscode-about-section-06 .about-img .shape-1 {
     top: -10%;
   }
-  .techwix-about-section-06 .about-content-wrap {
+  .nomadscode-about-section-06 .about-content-wrap {
     margin-top: 110px;
   }
 }
 
 @media only screen and (max-width: 449px) {
-  .techwix-about-section-06 .about-content-wrap {
+  .nomadscode-about-section-06 .about-content-wrap {
     margin-top: 80px;
   }
 }
 
-.techwix-about-section-07 .about-img-wrap {
+.nomadscode-about-section-07 .about-img-wrap {
   display: flex;
   position: relative;
   z-index: 1;
 }
 
-.techwix-about-section-07 .about-img-wrap .shape-1 {
+.nomadscode-about-section-07 .about-img-wrap .shape-1 {
   position: absolute;
   right: 55px;
   bottom: -30px;
   z-index: -1;
 }
 
-.techwix-about-section-07 .about-img-wrap .about-img {
+.nomadscode-about-section-07 .about-img-wrap .about-img {
   overflow: hidden;
 }
 
-.techwix-about-section-07 .about-img-wrap .about-img img {
+.nomadscode-about-section-07 .about-img-wrap .about-img img {
   border-radius: 10px;
 }
 
-.techwix-about-section-07 .about-img-wrap .about-img:first-child {
+.nomadscode-about-section-07 .about-img-wrap .about-img:first-child {
   padding-right: 15px;
 }
 
-.techwix-about-section-07 .about-img-wrap .about-img:last-child {
+.nomadscode-about-section-07 .about-img-wrap .about-img:last-child {
   padding-left: 15px;
   margin-top: 75px;
 }
 
-.techwix-about-section-07 .about-content-wrap {
+.nomadscode-about-section-07 .about-content-wrap {
   padding-left: 90px;
 }
 
-.techwix-about-section-07 .about-content-wrap .text {
+.nomadscode-about-section-07 .about-content-wrap .text {
   font-size: 16px;
   line-height: 30px;
   margin-top: 25px;
 }
 
-.techwix-about-section-07 .about-content-wrap .about-list-03 {
+.nomadscode-about-section-07 .about-content-wrap .about-list-03 {
   border-top: 1px solid #e1e1e1;
   margin-top: 40px;
   padding-top: 15px;
 }
 
-.techwix-about-section-07 .about-content-wrap .about-list-03 .about-list-item-03 {
+.nomadscode-about-section-07 .about-content-wrap .about-list-03 .about-list-item-03 {
   padding-right: 40px;
   margin-top: 25px;
 }
 
-.techwix-about-section-07 .about-content-wrap .about-list-03 .about-list-item-03 .title {
+.nomadscode-about-section-07 .about-content-wrap .about-list-03 .about-list-item-03 .title {
   font-size: 18px;
   line-height: 30px;
   font-weight: 700;
   color: #231e32;
 }
 
-.techwix-about-section-07 .about-content-wrap .about-list-03 .about-list-item-03 p {
+.nomadscode-about-section-07 .about-content-wrap .about-list-03 .about-list-item-03 p {
   font-size: 16px;
   line-height: 30px;
 }
 
 @media only screen and (max-width: 1199px) {
-  .techwix-about-section-07 .about-img-wrap .shape-1 {
+  .nomadscode-about-section-07 .about-img-wrap .shape-1 {
     right: 10px;
     bottom: -30px;
     width: 370px;
   }
-  .techwix-about-section-07 .about-content-wrap {
+  .nomadscode-about-section-07 .about-content-wrap {
     padding-left: 40px;
   }
-  .techwix-about-section-07 .about-content-wrap .about-list-03 .about-list-item-03 {
+  .nomadscode-about-section-07 .about-content-wrap .about-list-03 .about-list-item-03 {
     padding-right: 10px;
   }
 }
 
 @media only screen and (max-width: 991px) {
-  .techwix-about-section-07 .about-img-wrap {
+  .nomadscode-about-section-07 .about-img-wrap {
     justify-content: center;
   }
-  .techwix-about-section-07 .about-img-wrap .shape-1 {
+  .nomadscode-about-section-07 .about-img-wrap .shape-1 {
     right: 75px;
     width: inherit;
   }
-  .techwix-about-section-07 .about-content-wrap {
+  .nomadscode-about-section-07 .about-content-wrap {
     padding-left: 0px;
     padding-top: 60px;
   }
-  .techwix-about-section-07 .about-content-wrap .about-list-03 .about-list-item-03 {
+  .nomadscode-about-section-07 .about-content-wrap .about-list-03 .about-list-item-03 {
     padding-right: 40px;
   }
 }
 
 @media only screen and (max-width: 767px) {
-  .techwix-about-section-07 .about-img-wrap .shape-1 {
+  .nomadscode-about-section-07 .about-img-wrap .shape-1 {
     right: 40px;
     width: 370px;
   }
-  .techwix-about-section-07 .about-content-wrap .about-list-03 .about-list-item-03 {
+  .nomadscode-about-section-07 .about-content-wrap .about-list-03 .about-list-item-03 {
     padding-right: 0px;
   }
 }
 
 @media only screen and (max-width: 575px) {
-  .techwix-about-section-07 .about-img-wrap .shape-1 {
+  .nomadscode-about-section-07 .about-img-wrap .shape-1 {
     display: none;
   }
 }
@@ -5095,13 +5092,13 @@ textarea:-ms-input-placeholder {
 /*--
 /*  03 - Counter CSS
 /*----------------------------------------*/
-.techwix-counter-section {
+.nomadscode-counter-section {
   background: #e5effa;
   padding-top: 60px;
   padding-bottom: 80px;
 }
 
-.techwix-counter-section .counter-wrap {
+.nomadscode-counter-section .counter-wrap {
   margin-top: -30px;
 }
 
@@ -5141,7 +5138,7 @@ textarea:-ms-input-placeholder {
   color: #4c4d56;
 }
 
-.techwix-counter-section-02 .counter-wrap {
+.nomadscode-counter-section-02 .counter-wrap {
   border: 1px solid #e1e1e1;
   background: #ffffff;
   margin-bottom: -120px;
@@ -5150,12 +5147,12 @@ textarea:-ms-input-placeholder {
   padding: 15px 25px 75px;
 }
 
-.techwix-counter-section-02 .single-counter {
+.nomadscode-counter-section-02 .single-counter {
   position: relative;
   margin-left: 30px;
 }
 
-.techwix-counter-section-02 .single-counter::before {
+.nomadscode-counter-section-02 .single-counter::before {
   content: "";
   position: absolute;
   right: 0;
@@ -5166,29 +5163,29 @@ textarea:-ms-input-placeholder {
   transform: translateY(-44%);
 }
 
-.techwix-counter-section-02 .single-counter.single-counter-4::before {
+.nomadscode-counter-section-02 .single-counter.single-counter-4::before {
   display: none;
 }
 
 @media only screen and (max-width: 1199px) {
-  .techwix-counter-section-02 .counter-wrap {
+  .nomadscode-counter-section-02 .counter-wrap {
     padding: 15px 55px 75px;
   }
-  .techwix-counter-section-02 .single-counter {
+  .nomadscode-counter-section-02 .single-counter {
     margin-left: 0px;
   }
-  .techwix-counter-section-02 .single-counter::before {
+  .nomadscode-counter-section-02 .single-counter::before {
     display: none;
   }
 }
 
 @media only screen and (max-width: 449px) {
-  .techwix-counter-section-02 .counter-wrap {
+  .nomadscode-counter-section-02 .counter-wrap {
     padding: 15px 28px 75px;
   }
 }
 
-.techwix-counter-section-03 {
+.nomadscode-counter-section-03 {
   background: #010642;
   background-repeat: no-repeat;
   background-size: cover;
@@ -5199,7 +5196,7 @@ textarea:-ms-input-placeholder {
   z-index: 1;
 }
 
-.techwix-counter-section-03::before {
+.nomadscode-counter-section-03::before {
   content: "";
   position: absolute;
   left: 0;
@@ -5229,17 +5226,17 @@ textarea:-ms-input-placeholder {
   color: #ffffff;
 }
 
-.techwix-counter-section-04 {
+.nomadscode-counter-section-04 {
   background: none;
   padding-top: 0;
   padding-bottom: 0;
 }
 
-.techwix-counter-section-04::before {
+.nomadscode-counter-section-04::before {
   display: none;
 }
 
-.techwix-counter-section-04 .counter-wrap {
+.nomadscode-counter-section-04 .counter-wrap {
   background: linear-gradient(55deg, #693eaa 25%, #47bbff 100%);
   background-repeat: no-repeat;
   background-position: center center;
@@ -5251,7 +5248,7 @@ textarea:-ms-input-placeholder {
   padding-bottom: 95px;
 }
 
-.techwix-counter-section-04 .counter-wrap .single-counter-02 span {
+.nomadscode-counter-section-04 .counter-wrap .single-counter-02 span {
   color: #ffffff;
 }
 
@@ -5329,27 +5326,27 @@ textarea:-ms-input-placeholder {
   margin: 0 7px;
 }
 
-.techwix-case-study-section-02 {
+.nomadscode-case-study-section-02 {
   background: #010f31;
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
 }
 
-.techwix-case-study-section-02 .single-case-study-02 {
+.nomadscode-case-study-section-02 .single-case-study-02 {
   position: relative;
 }
 
-.techwix-case-study-section-02 .single-case-study-02 .case-study-img {
+.nomadscode-case-study-section-02 .single-case-study-02 .case-study-img {
   position: relative;
   overflow: hidden;
 }
 
-.techwix-case-study-section-02 .single-case-study-02 .case-study-img a {
+.nomadscode-case-study-section-02 .single-case-study-02 .case-study-img a {
   display: block;
 }
 
-.techwix-case-study-section-02 .single-case-study-02 .case-study-img a::before {
+.nomadscode-case-study-section-02 .single-case-study-02 .case-study-img a::before {
   content: "";
   position: absolute;
   height: 100%;
@@ -5361,7 +5358,7 @@ textarea:-ms-input-placeholder {
   display: none;
 }
 
-.techwix-case-study-section-02 .single-case-study-02 .case-study-content {
+.nomadscode-case-study-section-02 .single-case-study-02 .case-study-content {
   position: absolute;
   bottom: 60px;
   left: 60px;
@@ -5370,48 +5367,48 @@ textarea:-ms-input-placeholder {
 }
 
 @media only screen and (max-width: 449px) {
-  .techwix-case-study-section-02 .single-case-study-02 .case-study-content {
+  .nomadscode-case-study-section-02 .single-case-study-02 .case-study-content {
     bottom: 10px;
     left: 25px;
   }
 }
 
-.techwix-case-study-section-02 .single-case-study-02 .case-study-content .sub-title {
+.nomadscode-case-study-section-02 .single-case-study-02 .case-study-content .sub-title {
   font-size: 14px;
   line-height: 27px;
   font-weight: 500;
   color: #ffffff;
 }
 
-.techwix-case-study-section-02 .single-case-study-02 .case-study-content .title {
+.nomadscode-case-study-section-02 .single-case-study-02 .case-study-content .title {
   font-size: 24px;
   line-height: 27px;
   color: #0e0e0e;
 }
 
-.techwix-case-study-section-02 .single-case-study-02 .case-study-content .title span {
+.nomadscode-case-study-section-02 .single-case-study-02 .case-study-content .title span {
   display: inline-block;
   background: #ffffff;
   margin-top: 3px;
   padding: 0 5px;
 }
 
-.techwix-case-study-section-02 .single-case-study-02 .case-study-content .text {
+.nomadscode-case-study-section-02 .single-case-study-02 .case-study-content .text {
   font-size: 14px;
   line-height: 24px;
   color: #ffffff;
   margin-top: 20px;
 }
 
-.techwix-case-study-section-02 .single-case-study-02:hover .case-study-content .title {
+.nomadscode-case-study-section-02 .single-case-study-02:hover .case-study-content .title {
   color: #086ad8;
 }
 
-.techwix-case-study-section-02 .swiper-slide.swiper-slide-active .single-case-study-02 .case-study-img a::before {
+.nomadscode-case-study-section-02 .swiper-slide.swiper-slide-active .single-case-study-02 .case-study-img a::before {
   display: block;
 }
 
-.techwix-case-study-section-02 .swiper-slide.swiper-slide-active .single-case-study-02 .case-study-content {
+.nomadscode-case-study-section-02 .swiper-slide.swiper-slide-active .single-case-study-02 .case-study-content {
   display: block;
 }
 
@@ -5539,18 +5536,18 @@ textarea:-ms-input-placeholder {
   }
 }
 
-.techwix-testimonial-section-02 {
-  background: #ff5538;
+.nomadscode-testimonial-section-02 {
+  background: #2d7228;
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
 }
 
-.techwix-testimonial-section-02 .testimonial-content-wrap-02 {
+.nomadscode-testimonial-section-02 .testimonial-content-wrap-02 {
   margin-top: 60px;
 }
 
-.techwix-testimonial-section-02 .single-testimonial-02 {
+.nomadscode-testimonial-section-02 .single-testimonial-02 {
   background: #ffffff;
   box-shadow: 0px 10px 15px 0px rgba(0, 0, 0, 0.09);
   border-radius: 10px;
@@ -5559,7 +5556,7 @@ textarea:-ms-input-placeholder {
   position: relative;
 }
 
-.techwix-testimonial-section-02 .single-testimonial-02 .testimonial-thumb {
+.nomadscode-testimonial-section-02 .single-testimonial-02 .testimonial-thumb {
   position: absolute;
   left: -7%;
   top: 50%;
@@ -5567,16 +5564,16 @@ textarea:-ms-input-placeholder {
   z-index: 3;
 }
 
-.techwix-testimonial-section-02 .single-testimonial-02 .testimonial-thumb img {
+.nomadscode-testimonial-section-02 .single-testimonial-02 .testimonial-thumb img {
   border-radius: 10px;
 }
 
-.techwix-testimonial-section-02 .single-testimonial-02 .testimonial-content {
+.nomadscode-testimonial-section-02 .single-testimonial-02 .testimonial-content {
   padding: 40px 130px;
   padding-right: 40px;
 }
 
-.techwix-testimonial-section-02 .single-testimonial-02 .testimonial-content p {
+.nomadscode-testimonial-section-02 .single-testimonial-02 .testimonial-content p {
   font-size: 20px;
   line-height: 32px;
   color: #4c4d56;
@@ -5584,13 +5581,13 @@ textarea:-ms-input-placeholder {
   margin-bottom: 15px;
 }
 
-.techwix-testimonial-section-02 .single-testimonial-02 .testimonial-content .name {
+.nomadscode-testimonial-section-02 .single-testimonial-02 .testimonial-content .name {
   font-size: 16px;
   line-height: 20px;
   color: #0e0e0e;
 }
 
-.techwix-testimonial-section-02 .single-testimonial-02 .testimonial-content .designation {
+.nomadscode-testimonial-section-02 .single-testimonial-02 .testimonial-content .designation {
   font-size: 12px;
   line-height: 20px;
   color: #47484a;
@@ -5614,17 +5611,17 @@ textarea:-ms-input-placeholder {
 }
 
 @media only screen and (max-width: 1399px) {
-  .techwix-testimonial-section-02 .single-testimonial-02 {
+  .nomadscode-testimonial-section-02 .single-testimonial-02 {
     margin: 0 auto;
   }
 }
 
 @media only screen and (max-width: 767px) {
-  .techwix-testimonial-section-02 .single-testimonial-02 {
+  .nomadscode-testimonial-section-02 .single-testimonial-02 {
     width: 100%;
     text-align: center;
   }
-  .techwix-testimonial-section-02 .single-testimonial-02 .testimonial-thumb {
+  .nomadscode-testimonial-section-02 .single-testimonial-02 .testimonial-thumb {
     position: relative;
     text-align: center;
     left: 0;
@@ -5632,29 +5629,29 @@ textarea:-ms-input-placeholder {
     padding-top: 40px;
     transform: translateY(0%);
   }
-  .techwix-testimonial-section-02 .single-testimonial-02 .testimonial-content {
+  .nomadscode-testimonial-section-02 .single-testimonial-02 .testimonial-content {
     padding: 40px 45px;
   }
 }
 
-.techwix-testimonial-section-03 {
+.nomadscode-testimonial-section-03 {
   background: #ffffff;
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
 }
 
-.techwix-testimonial-section-03 .single-testimonial-02 {
+.nomadscode-testimonial-section-03 .single-testimonial-02 {
   margin: 10px 40px;
 }
 
 @media only screen and (max-width: 1399px) {
-  .techwix-testimonial-section-03 .single-testimonial-02 {
+  .nomadscode-testimonial-section-03 .single-testimonial-02 {
     margin: 0 auto;
   }
 }
 
-.techwix-testimonial-section-03 .single-testimonial-02 .testimonial-thumb::before {
+.nomadscode-testimonial-section-03 .single-testimonial-02 .testimonial-thumb::before {
   content: "";
   position: absolute;
   left: 0;
@@ -5668,49 +5665,49 @@ textarea:-ms-input-placeholder {
 }
 
 @media only screen and (max-width: 767px) {
-  .techwix-testimonial-section-03 .single-testimonial-02 .testimonial-thumb::before {
+  .nomadscode-testimonial-section-03 .single-testimonial-02 .testimonial-thumb::before {
     left: 50%;
     top: 50%;
     transform: translate(-45%, -31%);
   }
 }
 
-.techwix-testimonial-section-03 .testimonial-02-active .swiper-pagination .swiper-pagination-bullet {
+.nomadscode-testimonial-section-03 .testimonial-02-active .swiper-pagination .swiper-pagination-bullet {
   background-color: #e8e8e8;
 }
 
-.techwix-testimonial-section-03 .testimonial-02-active .swiper-pagination .swiper-pagination-bullet::after {
+.nomadscode-testimonial-section-03 .testimonial-02-active .swiper-pagination .swiper-pagination-bullet::after {
   border: 1px solid #57585a;
 }
 
-.techwix-testimonial-section-03 .testimonial-02-active .swiper-pagination .swiper-pagination-bullet.swiper-pagination-bullet-active {
+.nomadscode-testimonial-section-03 .testimonial-02-active .swiper-pagination .swiper-pagination-bullet.swiper-pagination-bullet-active {
   background-color: #086ad8;
 }
 
-.techwix-testimonial-section-04 {
+.nomadscode-testimonial-section-04 {
   background: #010f31;
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
 }
 
-.techwix-testimonial-section-04 .single-testimonial-02 {
+.nomadscode-testimonial-section-04 .single-testimonial-02 {
   background: rgba(255, 255, 255, 0.1);
 }
 
-.techwix-testimonial-section-04 .single-testimonial-02 .testimonial-content p {
+.nomadscode-testimonial-section-04 .single-testimonial-02 .testimonial-content p {
   color: #ffffff;
 }
 
-.techwix-testimonial-section-04 .single-testimonial-02 .testimonial-content .name {
+.nomadscode-testimonial-section-04 .single-testimonial-02 .testimonial-content .name {
   color: #ffffff;
 }
 
-.techwix-testimonial-section-04 .single-testimonial-02 .testimonial-content .designation {
+.nomadscode-testimonial-section-04 .single-testimonial-02 .testimonial-content .designation {
   color: #ffffff;
 }
 
-.techwix-testimonial-section-05 {
+.nomadscode-testimonial-section-05 {
   padding-top: 260px;
 }
 
@@ -5742,70 +5739,70 @@ textarea:-ms-input-placeholder {
   margin: 45px auto 0;
 }
 
-.techwix-brand-section-02 .brand-wrapper {
+.nomadscode-brand-section-02 .brand-wrapper {
   border-top: 1px solid #e1e1e1;
   padding-top: 20px;
   padding-bottom: 120px;
 }
 
-.techwix-brand-section-03 .brand-wrapper {
+.nomadscode-brand-section-03 .brand-wrapper {
   padding-top: 90px;
 }
 
-.techwix-brand-section-03 .brand-active {
+.nomadscode-brand-section-03 .brand-active {
   margin-top: 0;
 }
 
-.techwix-brand-section-04 .brand-wrapper {
+.nomadscode-brand-section-04 .brand-wrapper {
   padding-top: 0;
 }
 
 /*--
 /*  03 - Skill CSS
 /*----------------------------------------*/
-.techwix-skill-section .skill-left {
+.nomadscode-skill-section .skill-left {
   padding-right: 120px;
 }
 
-.techwix-skill-section .skill-left p {
+.nomadscode-skill-section .skill-left p {
   font-size: 16px;
   line-height: 30px;
   margin-top: 40px;
 }
 
-.techwix-skill-section .skill-left .skill-author {
+.nomadscode-skill-section .skill-left .skill-author {
   margin-top: 30px;
 }
 
-.techwix-skill-section .skill-left .skill-author .name {
+.nomadscode-skill-section .skill-left .skill-author .name {
   font-size: 16px;
   line-height: 24px;
   font-weight: 600;
   margin-top: 10px;
 }
 
-.techwix-skill-section .skill-left .skill-author .designation {
+.nomadscode-skill-section .skill-left .skill-author .designation {
   font-size: 12px;
   line-height: 18px;
 }
 
-.techwix-skill-section .skill-right {
+.nomadscode-skill-section .skill-right {
   padding-right: 50px;
   margin-top: 30px;
 }
 
-.techwix-skill-section .skill-right .experience {
+.nomadscode-skill-section .skill-right .experience {
   display: flex;
 }
 
-.techwix-skill-section .skill-right .experience .number {
+.nomadscode-skill-section .skill-right .experience .number {
   font-size: 180px;
   line-height: 30px;
-  color: #ff5538;
+  color: #2d7228;
   margin-right: 10px;
 }
 
-.techwix-skill-section .skill-right .experience span {
+.nomadscode-skill-section .skill-right .experience span {
   font-size: 18px;
   line-height: 24px;
   color: #333333;
@@ -5842,7 +5839,7 @@ textarea:-ms-input-placeholder {
   left: 0;
   height: 6px;
   border-radius: 0px;
-  background: #ff5538;
+  background: #2d7228;
   transition: 3s;
   transition-delay: 1s;
   width: 0;
@@ -5883,31 +5880,31 @@ textarea:-ms-input-placeholder {
 }
 
 @media only screen and (max-width: 1199px) {
-  .techwix-skill-section .skill-left {
+  .nomadscode-skill-section .skill-left {
     padding-right: 30px;
   }
-  .techwix-skill-section .skill-right .experience .number {
+  .nomadscode-skill-section .skill-right .experience .number {
     font-size: 150px;
   }
 }
 
 @media only screen and (max-width: 991px) {
-  .techwix-skill-section .skill-left {
+  .nomadscode-skill-section .skill-left {
     padding-right: 0px;
     margin-bottom: 50px;
   }
 }
 
 @media only screen and (max-width: 575px) {
-  .techwix-skill-section .skill-right {
+  .nomadscode-skill-section .skill-right {
     padding-right: 0px;
   }
-  .techwix-skill-section .counter-bar .skill-item .skill-bar .bar-inner .progress-line .skill-percent {
+  .nomadscode-skill-section .counter-bar .skill-item .skill-bar .bar-inner .progress-line .skill-percent {
     right: -15px;
   }
 }
 
-.techwix-skill-section-02 {
+.nomadscode-skill-section-02 {
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -5916,29 +5913,29 @@ textarea:-ms-input-placeholder {
   overflow: hidden;
 }
 
-.techwix-skill-section-02 .skill-left {
+.nomadscode-skill-section-02 .skill-left {
   padding-right: 25px;
 }
 
-.techwix-skill-section-02 .skill-left .experience-wrap {
+.nomadscode-skill-section-02 .skill-left .experience-wrap {
   display: flex;
   margin-top: 35px;
 }
 
-.techwix-skill-section-02 .skill-left .experience-wrap .experience {
+.nomadscode-skill-section-02 .skill-left .experience-wrap .experience {
   max-width: 170px;
   background: linear-gradient(-120deg, #43baff 0%, #7141b1 100%);
   padding: 30px;
 }
 
-.techwix-skill-section-02 .skill-left .experience-wrap .experience .number {
+.nomadscode-skill-section-02 .skill-left .experience-wrap .experience .number {
   font-size: 100px;
   line-height: 54px;
   font-weight: 600;
   color: #ffffff;
 }
 
-.techwix-skill-section-02 .skill-left .experience-wrap .experience span {
+.nomadscode-skill-section-02 .skill-left .experience-wrap .experience span {
   font-size: 18px;
   line-height: 24px;
   margin-top: 30px;
@@ -5946,18 +5943,18 @@ textarea:-ms-input-placeholder {
   color: #ffffff;
 }
 
-.techwix-skill-section-02 .skill-left .experience-wrap .experience-text {
+.nomadscode-skill-section-02 .skill-left .experience-wrap .experience-text {
   flex: 1;
   margin-left: 55px;
 }
 
-.techwix-skill-section-02 .skill-left .experience-wrap .experience-text p {
+.nomadscode-skill-section-02 .skill-left .experience-wrap .experience-text p {
   font-size: 16px;
   line-height: 30px;
   margin-top: 0;
 }
 
-.techwix-skill-section-02 .skill-left .experience-wrap .experience-text .learn-more {
+.nomadscode-skill-section-02 .skill-left .experience-wrap .experience-text .learn-more {
   font-size: 16px;
   line-height: 30px;
   font-weight: 600;
@@ -5965,86 +5962,86 @@ textarea:-ms-input-placeholder {
   margin-top: 20px;
 }
 
-.techwix-skill-section-02 .skill-left .experience-wrap .experience-text .learn-more i {
+.nomadscode-skill-section-02 .skill-left .experience-wrap .experience-text .learn-more i {
   position: relative;
   top: 1px;
   transition: all 0.3s linear;
 }
 
-.techwix-skill-section-02 .skill-left .experience-wrap .experience-text .learn-more:hover i {
+.nomadscode-skill-section-02 .skill-left .experience-wrap .experience-text .learn-more:hover i {
   margin-left: 5px;
 }
 
-.techwix-skill-section-02 .skill-right {
+.nomadscode-skill-section-02 .skill-right {
   margin-top: 0;
 }
 
-.techwix-skill-section-02 .skill-right .counter-bar {
+.nomadscode-skill-section-02 .skill-right .counter-bar {
   padding-top: 0px;
 }
 
-.techwix-skill-section-02 .skill-right .counter-bar .skill-item .skill-bar .bar-inner .progress-line {
+.nomadscode-skill-section-02 .skill-right .counter-bar .skill-item .skill-bar .bar-inner .progress-line {
   background: #086ad8;
 }
 
 @media only screen and (max-width: 1199px) {
-  .techwix-skill-section-02 .skill-left {
+  .nomadscode-skill-section-02 .skill-left {
     padding-right: 0;
   }
 }
 
 @media only screen and (max-width: 991px) {
-  .techwix-skill-section-02 .skill-right {
+  .nomadscode-skill-section-02 .skill-right {
     padding-top: 20px;
   }
 }
 
 @media only screen and (max-width: 575px) {
-  .techwix-skill-section-02 .skill-left .experience-wrap {
+  .nomadscode-skill-section-02 .skill-left .experience-wrap {
     flex-direction: column;
     gap: 25px;
   }
-  .techwix-skill-section-02 .skill-left .experience-wrap .experience-text {
+  .nomadscode-skill-section-02 .skill-left .experience-wrap .experience-text {
     margin-left: 0px;
   }
 }
 
-.techwix-skill-section-03 .skill-left {
+.nomadscode-skill-section-03 .skill-left {
   padding-right: 60px;
 }
 
-.techwix-skill-section-03 .skill-left .about-list {
+.nomadscode-skill-section-03 .skill-left .about-list {
   margin-top: 20px;
 }
 
-.techwix-skill-section-03 .skill-left .about-author-info-wrap {
+.nomadscode-skill-section-03 .skill-left .about-author-info-wrap {
   margin-right: 30px;
 }
 
-.techwix-skill-section-03 .skill-right {
+.nomadscode-skill-section-03 .skill-right {
   padding-right: 120px;
 }
 
-.techwix-skill-section-03 .skill-right .text {
+.nomadscode-skill-section-03 .skill-right .text {
   font-size: 18px;
   line-height: 30px;
   padding-bottom: 30px;
 }
 
 @media only screen and (max-width: 1199px) {
-  .techwix-skill-section-03 .skill-left {
+  .nomadscode-skill-section-03 .skill-left {
     padding-right: 30px;
   }
-  .techwix-skill-section-03 .skill-right {
+  .nomadscode-skill-section-03 .skill-right {
     padding-right: 0;
   }
 }
 
 @media only screen and (max-width: 991px) {
-  .techwix-skill-section-03 .skill-left {
+  .nomadscode-skill-section-03 .skill-left {
     padding-right: 0px;
   }
-  .techwix-skill-section-03 .skill-left .about-author-info-wrap {
+  .nomadscode-skill-section-03 .skill-left .about-author-info-wrap {
     margin-right: 0px;
   }
 }
@@ -6052,69 +6049,69 @@ textarea:-ms-input-placeholder {
 /*--
 /*  19 - Contact CSS
 /*----------------------------------------*/
-.techwix-contact-section .contact-wrap {
+.nomadscode-contact-section .contact-wrap {
   background-repeat: no-repeat;
   background-size: contain;
   background-position: 60% 100%;
 }
 
-.techwix-contact-section .contact-wrap .contact-info .section-title .title {
+.nomadscode-contact-section .contact-wrap .contact-info .section-title .title {
   position: relative;
   padding-left: 45px;
 }
 
-.techwix-contact-section .contact-wrap .contact-info .section-title .title::before {
+.nomadscode-contact-section .contact-wrap .contact-info .section-title .title::before {
   content: "";
   position: absolute;
   left: 0;
   top: 50%;
-  background: #ff5538;
+  background: #2d7228;
   height: 150px;
   width: 4px;
   transform: translateY(-50%);
 }
 
-.techwix-contact-section .contact-wrap .contact-info ul {
+.nomadscode-contact-section .contact-wrap .contact-info ul {
   padding-top: 15px;
 }
 
-.techwix-contact-section .contact-wrap .contact-info ul li {
+.nomadscode-contact-section .contact-wrap .contact-info ul li {
   margin-top: 15px;
   padding-right: 65px;
 }
 
-.techwix-contact-section .contact-wrap .contact-info ul li:first-child {
+.nomadscode-contact-section .contact-wrap .contact-info ul li:first-child {
   border-top: 0;
 }
 
-.techwix-contact-section .contact-wrap .contact-info ul li .contact-info-item .contact-info-icon i {
+.nomadscode-contact-section .contact-wrap .contact-info ul li .contact-info-item .contact-info-icon i {
   font-size: 50px;
-  color: #ff5538;
+  color: #2d7228;
 }
 
 @media only screen and (max-width: 575px) {
-  .techwix-contact-section .contact-wrap .contact-info ul li .contact-info-item .contact-info-icon i {
+  .nomadscode-contact-section .contact-wrap .contact-info ul li .contact-info-item .contact-info-icon i {
     font-size: 42px;
   }
 }
 
-.techwix-contact-section .contact-wrap .contact-info ul li .contact-info-item .contact-info-text {
+.nomadscode-contact-section .contact-wrap .contact-info ul li .contact-info-item .contact-info-text {
   margin-left: 20px;
 }
 
-.techwix-contact-section .contact-wrap .contact-info ul li .contact-info-item .contact-info-text .title {
+.nomadscode-contact-section .contact-wrap .contact-info ul li .contact-info-item .contact-info-text .title {
   font-size: 24px;
   line-height: 30px;
   color: #0e0e0e;
 }
 
-.techwix-contact-section .contact-wrap .contact-info ul li .contact-info-item .contact-info-text p {
+.nomadscode-contact-section .contact-wrap .contact-info ul li .contact-info-item .contact-info-text p {
   font-size: 16px;
   line-height: 30px;
   color: #0e0e0e;
 }
 
-.techwix-contact-section .contact-wrap .contact-form {
+.nomadscode-contact-section .contact-wrap .contact-form {
   background: #f8f8f8;
   border-radius: 10px;
   overflow: hidden;
@@ -6122,48 +6119,48 @@ textarea:-ms-input-placeholder {
 }
 
 @media only screen and (max-width: 1399px) {
-  .techwix-contact-section .contact-wrap .contact-form {
+  .nomadscode-contact-section .contact-wrap .contact-form {
     margin-left: 40px;
   }
 }
 
 @media only screen and (max-width: 1199px) {
-  .techwix-contact-section .contact-wrap .contact-form {
+  .nomadscode-contact-section .contact-wrap .contact-form {
     margin-left: 15px;
   }
 }
 
 @media only screen and (max-width: 991px) {
-  .techwix-contact-section .contact-wrap .contact-form {
+  .nomadscode-contact-section .contact-wrap .contact-form {
     margin-left: 0;
     margin-top: 60px;
   }
 }
 
-.techwix-contact-section .contact-wrap .contact-form .contact-form-wrap {
+.nomadscode-contact-section .contact-wrap .contact-form .contact-form-wrap {
   padding: 55px 40px;
 }
 
 @media only screen and (max-width: 1199px) {
-  .techwix-contact-section .contact-wrap .contact-form .contact-form-wrap {
+  .nomadscode-contact-section .contact-wrap .contact-form .contact-form-wrap {
     padding: 40px;
   }
 }
 
-.techwix-contact-section .contact-wrap .contact-form .contact-form-wrap .heading-wrap {
+.nomadscode-contact-section .contact-wrap .contact-form .contact-form-wrap .heading-wrap {
   margin-bottom: 30px;
 }
 
-.techwix-contact-section .contact-wrap .contact-form .contact-form-wrap .heading-wrap .sub-title {
+.nomadscode-contact-section .contact-wrap .contact-form .contact-form-wrap .heading-wrap .sub-title {
   font-size: 14px;
   line-height: 30px;
   font-family: "Barlow", sans-serif;
   font-weight: 700;
   text-transform: uppercase;
-  color: #ff5538;
+  color: #2d7228;
 }
 
-.techwix-contact-section .contact-wrap .contact-form .contact-form-wrap .heading-wrap .title {
+.nomadscode-contact-section .contact-wrap .contact-form .contact-form-wrap .heading-wrap .title {
   font-size: 42px;
   line-height: 54px;
   font-weight: 600;
@@ -6171,31 +6168,31 @@ textarea:-ms-input-placeholder {
 }
 
 @media only screen and (max-width: 1199px) {
-  .techwix-contact-section .contact-wrap .contact-form .contact-form-wrap .heading-wrap .title {
+  .nomadscode-contact-section .contact-wrap .contact-form .contact-form-wrap .heading-wrap .title {
     font-size: 32px;
     line-height: 48px;
   }
 }
 
 @media only screen and (max-width: 575px) {
-  .techwix-contact-section .contact-wrap .contact-form .contact-form-wrap .heading-wrap .title {
+  .nomadscode-contact-section .contact-wrap .contact-form .contact-form-wrap .heading-wrap .title {
     font-size: 28px;
     line-height: 40px;
   }
 }
 
-.techwix-contact-section .contact-wrap .contact-form .contact-form-wrap .single-form {
+.nomadscode-contact-section .contact-wrap .contact-form .contact-form-wrap .single-form {
   margin-top: 25px;
 }
 
-.techwix-contact-section .contact-wrap .contact-form .contact-form-wrap .single-form input:not([type="submit"]):not([type="checkbox"]):not([type="radio"]):not([type="file"]) {
+.nomadscode-contact-section .contact-wrap .contact-form .contact-form-wrap .single-form input:not([type="submit"]):not([type="checkbox"]):not([type="radio"]):not([type="file"]) {
   height: 55px;
   line-height: 55px;
   border: 1px solid #ebebeb;
   padding-left: 15px;
 }
 
-.techwix-contact-section .contact-wrap .contact-form .contact-form-wrap .single-form input:not([type="submit"]):not([type="checkbox"]):not([type="radio"]):not([type="file"])::-webkit-input-placeholder {
+.nomadscode-contact-section .contact-wrap .contact-form .contact-form-wrap .single-form input:not([type="submit"]):not([type="checkbox"]):not([type="radio"]):not([type="file"])::-webkit-input-placeholder {
   opacity: 0.95;
   font-size: 14px;
   color: #4c4d56;
@@ -6203,7 +6200,7 @@ textarea:-ms-input-placeholder {
   font-weight: 400;
 }
 
-.techwix-contact-section .contact-wrap .contact-form .contact-form-wrap .single-form input:not([type="submit"]):not([type="checkbox"]):not([type="radio"]):not([type="file"]):-moz-placeholder {
+.nomadscode-contact-section .contact-wrap .contact-form .contact-form-wrap .single-form input:not([type="submit"]):not([type="checkbox"]):not([type="radio"]):not([type="file"]):-moz-placeholder {
   opacity: 0.95;
   font-size: 14px;
   color: #4c4d56;
@@ -6211,7 +6208,7 @@ textarea:-ms-input-placeholder {
   font-weight: 400;
 }
 
-.techwix-contact-section .contact-wrap .contact-form .contact-form-wrap .single-form input:not([type="submit"]):not([type="checkbox"]):not([type="radio"]):not([type="file"])::-moz-placeholder {
+.nomadscode-contact-section .contact-wrap .contact-form .contact-form-wrap .single-form input:not([type="submit"]):not([type="checkbox"]):not([type="radio"]):not([type="file"])::-moz-placeholder {
   opacity: 0.95;
   font-size: 14px;
   color: #4c4d56;
@@ -6219,7 +6216,7 @@ textarea:-ms-input-placeholder {
   font-weight: 400;
 }
 
-.techwix-contact-section .contact-wrap .contact-form .contact-form-wrap .single-form input:not([type="submit"]):not([type="checkbox"]):not([type="radio"]):not([type="file"]):-ms-input-placeholder {
+.nomadscode-contact-section .contact-wrap .contact-form .contact-form-wrap .single-form input:not([type="submit"]):not([type="checkbox"]):not([type="radio"]):not([type="file"]):-ms-input-placeholder {
   opacity: 0.95;
   font-size: 14px;
   color: #4c4d56;
@@ -6227,14 +6224,14 @@ textarea:-ms-input-placeholder {
   font-weight: 400;
 }
 
-.techwix-contact-section .contact-wrap .contact-form .contact-form-wrap .single-form textarea {
+.nomadscode-contact-section .contact-wrap .contact-form .contact-form-wrap .single-form textarea {
   height: 135px;
   border: 1px solid #ebebeb;
   padding-left: 15px;
   resize: none;
 }
 
-.techwix-contact-section .contact-wrap .contact-form .contact-form-wrap .single-form textarea::-webkit-input-placeholder {
+.nomadscode-contact-section .contact-wrap .contact-form .contact-form-wrap .single-form textarea::-webkit-input-placeholder {
   opacity: 0.95;
   font-size: 14px;
   color: #4c4d56;
@@ -6242,7 +6239,7 @@ textarea:-ms-input-placeholder {
   font-weight: 400;
 }
 
-.techwix-contact-section .contact-wrap .contact-form .contact-form-wrap .single-form textarea:-moz-placeholder {
+.nomadscode-contact-section .contact-wrap .contact-form .contact-form-wrap .single-form textarea:-moz-placeholder {
   opacity: 0.95;
   font-size: 14px;
   color: #4c4d56;
@@ -6250,7 +6247,7 @@ textarea:-ms-input-placeholder {
   font-weight: 400;
 }
 
-.techwix-contact-section .contact-wrap .contact-form .contact-form-wrap .single-form textarea::-moz-placeholder {
+.nomadscode-contact-section .contact-wrap .contact-form .contact-form-wrap .single-form textarea::-moz-placeholder {
   opacity: 0.95;
   font-size: 14px;
   color: #4c4d56;
@@ -6258,7 +6255,7 @@ textarea:-ms-input-placeholder {
   font-weight: 400;
 }
 
-.techwix-contact-section .contact-wrap .contact-form .contact-form-wrap .single-form textarea:-ms-input-placeholder {
+.nomadscode-contact-section .contact-wrap .contact-form .contact-form-wrap .single-form textarea:-ms-input-placeholder {
   opacity: 0.95;
   font-size: 14px;
   color: #4c4d56;
@@ -6266,11 +6263,11 @@ textarea:-ms-input-placeholder {
   font-weight: 400;
 }
 
-.techwix-contact-section .contact-wrap .contact-form .contact-form-wrap .form-btn {
+.nomadscode-contact-section .contact-wrap .contact-form .contact-form-wrap .form-btn {
   margin-top: 25px;
 }
 
-.techwix-contact-section .contact-wrap .contact-form .contact-form-wrap .form-btn .btn {
+.nomadscode-contact-section .contact-wrap .contact-form .contact-form-wrap .form-btn .btn {
   font-size: 16px;
   width: 100%;
   height: 55px;
@@ -6279,25 +6276,25 @@ textarea:-ms-input-placeholder {
 }
 
 @media only screen and (max-width: 575px) {
-  .techwix-contact-section .contact-wrap .contact-form .contact-form-wrap .form-btn .btn {
+  .nomadscode-contact-section .contact-wrap .contact-form .contact-form-wrap .form-btn .btn {
     padding: 0 45px;
   }
 }
 
-.techwix-contact-section-02 .contact-wrap .contact-info .section-title .title::before {
+.nomadscode-contact-section-02 .contact-wrap .contact-info .section-title .title::before {
   background: #086ad8;
 }
 
-.techwix-contact-section-02 .contact-wrap .contact-info ul li .contact-info-item .contact-info-icon i {
+.nomadscode-contact-section-02 .contact-wrap .contact-info ul li .contact-info-item .contact-info-icon i {
   color: #086ad8;
 }
 
-.techwix-contact-section-02 .contact-wrap .contact-form {
+.nomadscode-contact-section-02 .contact-wrap .contact-form {
   background: #ffffff;
   box-shadow: 0px 0px 139px 0px rgba(0, 0, 0, 0.1);
 }
 
-.techwix-contact-section-02 .contact-wrap .contact-form .contact-form-wrap .heading-wrap .sub-title {
+.nomadscode-contact-section-02 .contact-wrap .contact-form .contact-form-wrap .heading-wrap .sub-title {
   color: #086ad8;
 }
 
@@ -6349,17 +6346,17 @@ textarea:-ms-input-placeholder {
   }
 }
 
-.techwix-contact-section-03 .contact-wrap {
+.nomadscode-contact-section-03 .contact-wrap {
   margin-bottom: -60px;
   position: relative;
   z-index: 5;
 }
 
-.techwix-contact-section-03 .contact-wrap .contact-form .contact-form-wrap .form-btn {
+.nomadscode-contact-section-03 .contact-wrap .contact-form .contact-form-wrap .form-btn {
   text-align: center;
 }
 
-.techwix-contact-section-03 .contact-wrap .contact-form .contact-form-wrap .form-btn .btn {
+.nomadscode-contact-section-03 .contact-wrap .contact-form .contact-form-wrap .form-btn .btn {
   width: 70%;
 }
 
@@ -6376,8 +6373,8 @@ textarea:-ms-input-placeholder {
 /*--
 /*  03 - Subscribe CSS
 /*----------------------------------------*/
-.techwix-subscribe-section .subscribe-wrap {
-  background: #ff5538;
+.nomadscode-subscribe-section .subscribe-wrap {
+  background: #2d7228;
   border-radius: 10px;
   padding: 40px 110px;
   padding-left: 40px;
@@ -6385,12 +6382,12 @@ textarea:-ms-input-placeholder {
   position: relative;
 }
 
-.techwix-subscribe-section .subscribe-wrap .subscribe-content {
+.nomadscode-subscribe-section .subscribe-wrap .subscribe-content {
   display: flex;
   align-items: center;
 }
 
-.techwix-subscribe-section .subscribe-wrap .subscribe-content .subscribe-icon {
+.nomadscode-subscribe-section .subscribe-wrap .subscribe-content .subscribe-icon {
   width: 115px;
   height: 115px;
   line-height: 110px;
@@ -6402,7 +6399,7 @@ textarea:-ms-input-placeholder {
   background: #0e0e0e;
 }
 
-.techwix-subscribe-section .subscribe-wrap .subscribe-content .title {
+.nomadscode-subscribe-section .subscribe-wrap .subscribe-content .title {
   flex: 1;
   font-size: 34px;
   line-height: 36px;
@@ -6411,39 +6408,39 @@ textarea:-ms-input-placeholder {
   padding-left: 160px;
 }
 
-.techwix-subscribe-section .subscribe-wrap .subscribe-form form {
+.nomadscode-subscribe-section .subscribe-wrap .subscribe-form form {
   position: relative;
 }
 
-.techwix-subscribe-section .subscribe-wrap .subscribe-form form input:not([type="submit"]):not([type="checkbox"]):not([type="radio"]):not([type="file"]) {
+.nomadscode-subscribe-section .subscribe-wrap .subscribe-form form input:not([type="submit"]):not([type="checkbox"]):not([type="radio"]):not([type="file"]) {
   height: 60px;
   line-height: 60px;
   border: 0;
   padding-right: 170px;
 }
 
-.techwix-subscribe-section .subscribe-wrap .subscribe-form form input:not([type="submit"]):not([type="checkbox"]):not([type="radio"]):not([type="file"])::-webkit-input-placeholder {
+.nomadscode-subscribe-section .subscribe-wrap .subscribe-form form input:not([type="submit"]):not([type="checkbox"]):not([type="radio"]):not([type="file"])::-webkit-input-placeholder {
   opacity: 0.95;
   font-size: 18px;
   color: #93a1a2;
   font-weight: 400;
 }
 
-.techwix-subscribe-section .subscribe-wrap .subscribe-form form input:not([type="submit"]):not([type="checkbox"]):not([type="radio"]):not([type="file"]):-moz-placeholder {
+.nomadscode-subscribe-section .subscribe-wrap .subscribe-form form input:not([type="submit"]):not([type="checkbox"]):not([type="radio"]):not([type="file"]):-moz-placeholder {
   opacity: 0.95;
   font-size: 18px;
   color: #93a1a2;
   font-weight: 400;
 }
 
-.techwix-subscribe-section .subscribe-wrap .subscribe-form form input:not([type="submit"]):not([type="checkbox"]):not([type="radio"]):not([type="file"])::-moz-placeholder {
+.nomadscode-subscribe-section .subscribe-wrap .subscribe-form form input:not([type="submit"]):not([type="checkbox"]):not([type="radio"]):not([type="file"])::-moz-placeholder {
   opacity: 0.95;
   font-size: 18px;
   color: #93a1a2;
   font-weight: 400;
 }
 
-.techwix-subscribe-section .subscribe-wrap .subscribe-form form input:not([type="submit"]):not([type="checkbox"]):not([type="radio"]):not([type="file"]):-ms-input-placeholder {
+.nomadscode-subscribe-section .subscribe-wrap .subscribe-form form input:not([type="submit"]):not([type="checkbox"]):not([type="radio"]):not([type="file"]):-ms-input-placeholder {
   opacity: 0.95;
   font-size: 18px;
   color: #93a1a2;
@@ -6451,31 +6448,31 @@ textarea:-ms-input-placeholder {
 }
 
 @media only screen and (max-width: 767px) {
-  .techwix-subscribe-section .subscribe-wrap .subscribe-form form input:not([type="submit"]):not([type="checkbox"]):not([type="radio"]):not([type="file"]) {
+  .nomadscode-subscribe-section .subscribe-wrap .subscribe-form form input:not([type="submit"]):not([type="checkbox"]):not([type="radio"]):not([type="file"]) {
     height: 50px;
     line-height: 50px;
   }
 }
 
 @media only screen and (max-width: 575px) {
-  .techwix-subscribe-section .subscribe-wrap .subscribe-form form input:not([type="submit"]):not([type="checkbox"]):not([type="radio"]):not([type="file"]) {
+  .nomadscode-subscribe-section .subscribe-wrap .subscribe-form form input:not([type="submit"]):not([type="checkbox"]):not([type="radio"]):not([type="file"]) {
     padding-right: 20px;
   }
-  .techwix-subscribe-section .subscribe-wrap .subscribe-form form input:not([type="submit"]):not([type="checkbox"]):not([type="radio"]):not([type="file"])::-webkit-input-placeholder {
+  .nomadscode-subscribe-section .subscribe-wrap .subscribe-form form input:not([type="submit"]):not([type="checkbox"]):not([type="radio"]):not([type="file"])::-webkit-input-placeholder {
     font-size: 16px;
   }
-  .techwix-subscribe-section .subscribe-wrap .subscribe-form form input:not([type="submit"]):not([type="checkbox"]):not([type="radio"]):not([type="file"]):-moz-placeholder {
+  .nomadscode-subscribe-section .subscribe-wrap .subscribe-form form input:not([type="submit"]):not([type="checkbox"]):not([type="radio"]):not([type="file"]):-moz-placeholder {
     font-size: 16px;
   }
-  .techwix-subscribe-section .subscribe-wrap .subscribe-form form input:not([type="submit"]):not([type="checkbox"]):not([type="radio"]):not([type="file"])::-moz-placeholder {
+  .nomadscode-subscribe-section .subscribe-wrap .subscribe-form form input:not([type="submit"]):not([type="checkbox"]):not([type="radio"]):not([type="file"])::-moz-placeholder {
     font-size: 16px;
   }
-  .techwix-subscribe-section .subscribe-wrap .subscribe-form form input:not([type="submit"]):not([type="checkbox"]):not([type="radio"]):not([type="file"]):-ms-input-placeholder {
+  .nomadscode-subscribe-section .subscribe-wrap .subscribe-form form input:not([type="submit"]):not([type="checkbox"]):not([type="radio"]):not([type="file"]):-ms-input-placeholder {
     font-size: 16px;
   }
 }
 
-.techwix-subscribe-section .subscribe-wrap .subscribe-form form button {
+.nomadscode-subscribe-section .subscribe-wrap .subscribe-form form button {
   height: 60px;
   position: absolute;
   right: 0;
@@ -6492,14 +6489,14 @@ textarea:-ms-input-placeholder {
 }
 
 @media only screen and (max-width: 767px) {
-  .techwix-subscribe-section .subscribe-wrap .subscribe-form form button {
+  .nomadscode-subscribe-section .subscribe-wrap .subscribe-form form button {
     height: 50px;
     line-height: 50px;
   }
 }
 
 @media only screen and (max-width: 575px) {
-  .techwix-subscribe-section .subscribe-wrap .subscribe-form form button {
+  .nomadscode-subscribe-section .subscribe-wrap .subscribe-form form button {
     position: relative;
     width: 100%;
     display: block;
@@ -6510,36 +6507,36 @@ textarea:-ms-input-placeholder {
 }
 
 @media only screen and (max-width: 1199px) {
-  .techwix-subscribe-section .subscribe-wrap .subscribe-content .subscribe-icon {
+  .nomadscode-subscribe-section .subscribe-wrap .subscribe-content .subscribe-icon {
     width: 105px;
     height: 105px;
     line-height: 105px;
   }
-  .techwix-subscribe-section .subscribe-wrap .subscribe-content .title {
+  .nomadscode-subscribe-section .subscribe-wrap .subscribe-content .title {
     padding-left: 90px;
   }
 }
 
 @media only screen and (max-width: 991px) {
-  .techwix-subscribe-section .subscribe-wrap {
+  .nomadscode-subscribe-section .subscribe-wrap {
     text-align: center;
     padding: 40px 90px;
   }
-  .techwix-subscribe-section .subscribe-wrap .subscribe-content .subscribe-icon {
+  .nomadscode-subscribe-section .subscribe-wrap .subscribe-content .subscribe-icon {
     left: 50%;
     transform: translateX(-50%);
   }
-  .techwix-subscribe-section .subscribe-wrap .subscribe-content .title {
+  .nomadscode-subscribe-section .subscribe-wrap .subscribe-content .title {
     padding-left: 0px;
     margin-top: 40px;
   }
-  .techwix-subscribe-section .subscribe-wrap .subscribe-form {
+  .nomadscode-subscribe-section .subscribe-wrap .subscribe-form {
     margin-top: 30px;
   }
 }
 
 @media only screen and (max-width: 575px) {
-  .techwix-subscribe-section .subscribe-wrap {
+  .nomadscode-subscribe-section .subscribe-wrap {
     text-align: center;
     padding: 40px 30px;
   }
@@ -6548,7 +6545,7 @@ textarea:-ms-input-placeholder {
 /*--
 /*  03 - Choose Us CSS
 /*----------------------------------------*/
-.techwix-choose-us-section {
+.nomadscode-choose-us-section {
   background: #f8f8f8;
   background-repeat: no-repeat;
   background-size: cover;
@@ -6556,7 +6553,7 @@ textarea:-ms-input-placeholder {
   padding-top: 210px;
 }
 
-.techwix-choose-us-section .section-title {
+.nomadscode-choose-us-section .section-title {
   max-width: 570px;
   margin: 0 auto;
 }
@@ -6673,7 +6670,7 @@ textarea:-ms-input-placeholder {
   }
 }
 
-.techwix-choose-us-section-02 {
+.nomadscode-choose-us-section-02 {
   background: #f8f8f8;
   position: relative;
   background-repeat: no-repeat;
@@ -6683,44 +6680,44 @@ textarea:-ms-input-placeholder {
   z-index: 1;
 }
 
-.techwix-choose-us-section-02 .choose-us-left {
+.nomadscode-choose-us-section-02 .choose-us-left {
   padding-right: 50px;
 }
 
-.techwix-choose-us-section-02 .choose-us-left .text {
+.nomadscode-choose-us-section-02 .choose-us-left .text {
   font-size: 16px;
   line-height: 30px;
   margin-top: 40px;
   padding-right: 65px;
 }
 
-.techwix-choose-us-section-02 .choose-us-left .author-skill-wrap {
+.nomadscode-choose-us-section-02 .choose-us-left .author-skill-wrap {
   display: flex;
   align-items: center;
   margin-top: 40px;
   padding-right: 40px;
 }
 
-.techwix-choose-us-section-02 .choose-us-left .author-skill-wrap .author-wrap .name {
+.nomadscode-choose-us-section-02 .choose-us-left .author-skill-wrap .author-wrap .name {
   font-size: 16px;
   line-height: 24px;
   font-weight: 600;
   margin-top: 20px;
 }
 
-.techwix-choose-us-section-02 .choose-us-left .author-skill-wrap .author-wrap .designation {
+.nomadscode-choose-us-section-02 .choose-us-left .author-skill-wrap .author-wrap .designation {
   font-size: 12px;
   line-height: 18px;
 }
 
-.techwix-choose-us-section-02 .choose-us-left .author-skill-wrap .skill-wrap {
+.nomadscode-choose-us-section-02 .choose-us-left .author-skill-wrap .skill-wrap {
   flex: 1;
   padding-left: 50px;
   margin-left: 30px;
   position: relative;
 }
 
-.techwix-choose-us-section-02 .choose-us-left .author-skill-wrap .skill-wrap::before {
+.nomadscode-choose-us-section-02 .choose-us-left .author-skill-wrap .skill-wrap::before {
   content: "";
   position: absolute;
   left: 0;
@@ -6731,33 +6728,33 @@ textarea:-ms-input-placeholder {
   transform: translateY(-50%);
 }
 
-.techwix-choose-us-section-02 .choose-us-left .author-skill-wrap .skill-wrap .counter-bar {
+.nomadscode-choose-us-section-02 .choose-us-left .author-skill-wrap .skill-wrap .counter-bar {
   padding-top: 0px;
 }
 
-.techwix-choose-us-section-02 .choose-us-left .author-skill-wrap .skill-wrap .counter-bar .skill-item {
+.nomadscode-choose-us-section-02 .choose-us-left .author-skill-wrap .skill-wrap .counter-bar .skill-item {
   margin-top: 15px;
 }
 
-.techwix-choose-us-section-02 .choose-us-left .author-skill-wrap .skill-wrap .counter-bar .skill-item.skill-item-01 {
+.nomadscode-choose-us-section-02 .choose-us-left .author-skill-wrap .skill-wrap .counter-bar .skill-item.skill-item-01 {
   margin-top: 0;
 }
 
-.techwix-choose-us-section-02 .choose-us-left .author-skill-wrap .skill-wrap .counter-bar .skill-item .skill-bar .bar-inner .progress-line {
+.nomadscode-choose-us-section-02 .choose-us-left .author-skill-wrap .skill-wrap .counter-bar .skill-item .skill-bar .bar-inner .progress-line {
   background: #086ad8;
 }
 
-.techwix-choose-us-section-02 .choose-us-right {
+.nomadscode-choose-us-section-02 .choose-us-right {
   padding-left: 10px;
 }
 
 @media only screen and (max-width: 991px) {
-  .techwix-choose-us-section-02 .choose-us-right .faq-accordion {
+  .nomadscode-choose-us-section-02 .choose-us-right .faq-accordion {
     margin-top: 50px;
   }
 }
 
-.techwix-choose-us-section-02 .choose-us-right .faq-accordion .accordion-item {
+.nomadscode-choose-us-section-02 .choose-us-right .faq-accordion .accordion-item {
   border: 0;
   box-shadow: 0px 0px 161px 0px rgba(0, 0, 0, 0.2);
   border-radius: 5px;
@@ -6765,11 +6762,11 @@ textarea:-ms-input-placeholder {
   margin-top: 35px;
 }
 
-.techwix-choose-us-section-02 .choose-us-right .faq-accordion .accordion-item .accordion-button {
+.nomadscode-choose-us-section-02 .choose-us-right .faq-accordion .accordion-item .accordion-button {
   padding: 25px 35px;
 }
 
-.techwix-choose-us-section-02 .choose-us-right .faq-accordion .accordion-item .accordion-button .title {
+.nomadscode-choose-us-section-02 .choose-us-right .faq-accordion .accordion-item .accordion-button .title {
   font-size: 22px;
   color: #0e0e0e;
   font-family: "Barlow", sans-serif;
@@ -6780,7 +6777,7 @@ textarea:-ms-input-placeholder {
   z-index: 1;
 }
 
-.techwix-choose-us-section-02 .choose-us-right .faq-accordion .accordion-item .accordion-button::after {
+.nomadscode-choose-us-section-02 .choose-us-right .faq-accordion .accordion-item .accordion-button::after {
   position: absolute;
   content: "+";
   border: none;
@@ -6797,22 +6794,22 @@ textarea:-ms-input-placeholder {
   transition: all .3s ease-out 0s;
 }
 
-.techwix-choose-us-section-02 .choose-us-right .faq-accordion .accordion-item .accordion-body {
+.nomadscode-choose-us-section-02 .choose-us-right .faq-accordion .accordion-item .accordion-body {
   font-size: 14px;
   border-top: 1px solid #ebebeb;
   padding: 30px 35px;
 }
 
-.techwix-choose-us-section-02 .choose-us-right .faq-accordion .accordion-item .accordion-button:focus {
+.nomadscode-choose-us-section-02 .choose-us-right .faq-accordion .accordion-item .accordion-button:focus {
   box-shadow: none;
 }
 
-.techwix-choose-us-section-02 .choose-us-right .faq-accordion .accordion-item .accordion-button:not(.collapsed) {
+.nomadscode-choose-us-section-02 .choose-us-right .faq-accordion .accordion-item .accordion-button:not(.collapsed) {
   background-color: #ffffff;
   box-shadow: none;
 }
 
-.techwix-choose-us-section-02 .choose-us-right .faq-accordion .accordion-item .accordion-button:not(.collapsed)::after {
+.nomadscode-choose-us-section-02 .choose-us-right .faq-accordion .accordion-item .accordion-button:not(.collapsed)::after {
   position: absolute;
   content: "-";
   border: none;
@@ -6826,19 +6823,19 @@ textarea:-ms-input-placeholder {
 }
 
 @media only screen and (max-width: 1199px) {
-  .techwix-choose-us-section-02 {
+  .nomadscode-choose-us-section-02 {
     padding-bottom: 350px;
   }
-  .techwix-choose-us-section-02 .choose-us-left {
+  .nomadscode-choose-us-section-02 .choose-us-left {
     padding-right: 0;
   }
 }
 
 @media only screen and (max-width: 991px) {
-  .techwix-choose-us-section-02 {
+  .nomadscode-choose-us-section-02 {
     padding-bottom: 330px;
   }
-  .techwix-choose-us-section-02 .choose-us-right {
+  .nomadscode-choose-us-section-02 .choose-us-right {
     padding-left: 0;
     padding-top: 15px;
   }
@@ -6873,43 +6870,43 @@ textarea:-ms-input-placeholder {
   transform: scale(0.9);
 }
 
-.techwix-choose-us-section-03 {
+.nomadscode-choose-us-section-03 {
   background: #ffffff;
   padding-top: 120px;
 }
 
 @media only screen and (max-width: 1199px) {
-  .techwix-choose-us-section-03 {
+  .nomadscode-choose-us-section-03 {
     padding-top: 100px;
   }
 }
 
 @media only screen and (max-width: 991px) {
-  .techwix-choose-us-section-03 {
+  .nomadscode-choose-us-section-03 {
     padding-top: 80px;
   }
 }
 
 @media only screen and (max-width: 767px) {
-  .techwix-choose-us-section-03 {
+  .nomadscode-choose-us-section-03 {
     padding-top: 60px;
   }
 }
 
-.techwix-choose-us-section-04 {
+.nomadscode-choose-us-section-04 {
   background: #ffffff;
   padding-top: 120px;
 }
 
-.techwix-choose-us-section-04 .choose-us-wrap {
+.nomadscode-choose-us-section-04 .choose-us-wrap {
   margin-top: -30px;
 }
 
-.techwix-choose-us-section-04 .choose-us-content-wrap {
+.nomadscode-choose-us-section-04 .choose-us-content-wrap {
   padding-top: 0;
 }
 
-.techwix-choose-us-section-04 .choose-us-item-02 {
+.nomadscode-choose-us-section-04 .choose-us-item-02 {
   border: 1px solid #e1e1e1;
   box-shadow: none;
 }
@@ -7036,33 +7033,33 @@ textarea:-ms-input-placeholder {
   margin: 0 7px;
 }
 
-.techwix-team-section-02 {
+.nomadscode-team-section-02 {
   background: #010f31;
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
 }
 
-.techwix-team-section-03 .team-wrap {
+.nomadscode-team-section-03 .team-wrap {
   margin-top: -30px;
 }
 
-.techwix-team-section-03 .team-wrap .single-team {
+.nomadscode-team-section-03 .team-wrap .single-team {
   margin-top: 30px;
 }
 
-.techwix-team-section-03 .team-wrap .single-team .team-img a img {
+.nomadscode-team-section-03 .team-wrap .single-team .team-img a img {
   width: 100%;
 }
 
 /*--
 /*  13 - Blog CSS
 /*----------------------------------------*/
-.techwix-blog-section {
+.nomadscode-blog-section {
   padding-bottom: 70px;
 }
 
-.techwix-blog-wrap {
+.nomadscode-blog-wrap {
   padding-top: 20px;
 }
 
@@ -7190,7 +7187,7 @@ textarea:-ms-input-placeholder {
   transform: scale(1.1);
 }
 
-.techwix-blog-grid-wrap {
+.nomadscode-blog-grid-wrap {
   margin-top: -30px;
 }
 
@@ -7254,41 +7251,41 @@ textarea:-ms-input-placeholder {
   }
 }
 
-.techwix-features-section-02 .features-wrap-02 {
+.nomadscode-features-section-02 .features-wrap-02 {
   margin-top: -140px;
   position: relative;
   z-index: 5;
 }
 
-.techwix-features-section-02 .features-item {
+.nomadscode-features-section-02 .features-item {
   background: linear-gradient(90deg, #693eaa 0%, #01ebf2 100%);
   padding: 40px 35px;
   padding-right: 90px;
 }
 
-.techwix-features-section-02 .features-item .features-content {
+.nomadscode-features-section-02 .features-item .features-content {
   margin-left: 40px;
 }
 
-.techwix-features-section-02 .features-item .features-content .title {
+.nomadscode-features-section-02 .features-item .features-content .title {
   font-size: 28px;
   line-height: 30px;
   font-weight: 700;
   color: #ffffff;
 }
 
-.techwix-features-section-02 .features-item .features-content .title:hover a {
+.nomadscode-features-section-02 .features-item .features-content .title:hover a {
   color: #11ddf5;
 }
 
-.techwix-features-section-02 .features-item .features-content p {
+.nomadscode-features-section-02 .features-item .features-content p {
   font-size: 14px;
   line-height: 24px;
   color: #ffffff;
   margin-top: 15px;
 }
 
-.techwix-features-section-02 .features-item .features-content .lern-more {
+.nomadscode-features-section-02 .features-item .features-content .lern-more {
   font-size: 14px;
   line-height: 30px;
   font-weight: 600;
@@ -7296,48 +7293,48 @@ textarea:-ms-input-placeholder {
   margin-top: 5px;
 }
 
-.techwix-features-section-02 .features-item .features-content .lern-more i {
+.nomadscode-features-section-02 .features-item .features-content .lern-more i {
   position: relative;
   top: 1px;
   transition: all 0.3s linear;
 }
 
-.techwix-features-section-02 .features-item .features-content .lern-more:hover i {
+.nomadscode-features-section-02 .features-item .features-content .lern-more:hover i {
   margin-left: 5px;
 }
 
 @media only screen and (max-width: 1399px) {
-  .techwix-features-section-02 .features-item {
+  .nomadscode-features-section-02 .features-item {
     padding-right: 38px;
   }
-  .techwix-features-section-02 .features-item .features-content {
+  .nomadscode-features-section-02 .features-item .features-content {
     margin-left: 30px;
   }
 }
 
 @media only screen and (max-width: 1199px) {
-  .techwix-features-section-02 .features-wrap-02 {
+  .nomadscode-features-section-02 .features-wrap-02 {
     margin-top: -90px;
   }
-  .techwix-features-section-02 .features-item {
+  .nomadscode-features-section-02 .features-item {
     padding: 40px 25px;
     padding-right: 25px;
   }
-  .techwix-features-section-02 .features-item .features-content {
+  .nomadscode-features-section-02 .features-item .features-content {
     margin-left: 25px;
   }
-  .techwix-features-section-02 .features-item .features-content .title {
+  .nomadscode-features-section-02 .features-item .features-content .title {
     font-size: 22px;
   }
 }
 
 @media only screen and (max-width: 449px) {
-  .techwix-features-section-02 .features-item {
+  .nomadscode-features-section-02 .features-item {
     align-items: self-start;
     flex-direction: column;
     gap: 25px;
   }
-  .techwix-features-section-02 .features-item .features-content {
+  .nomadscode-features-section-02 .features-item .features-content {
     margin-left: 0px;
   }
 }
@@ -7345,7 +7342,7 @@ textarea:-ms-input-placeholder {
 /*--
 /*  03 - Video CSS
 /*----------------------------------------*/
-.techwix-video-section .video-wrap {
+.nomadscode-video-section .video-wrap {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -7358,7 +7355,7 @@ textarea:-ms-input-placeholder {
   z-index: 5;
 }
 
-.techwix-video-section .video-wrap::before {
+.nomadscode-video-section .video-wrap::before {
   content: "";
   position: absolute;
   left: 0;
@@ -7369,85 +7366,85 @@ textarea:-ms-input-placeholder {
   z-index: -1;
 }
 
-.techwix-video-section .video-wrap .shape-1 {
+.nomadscode-video-section .video-wrap .shape-1 {
   position: absolute;
   left: 50px;
   top: 120px;
   z-index: -1;
 }
 
-.techwix-video-section .video-wrap .shape-1 svg {
+.nomadscode-video-section .video-wrap .shape-1 svg {
   fill: #41b7fe;
 }
 
-.techwix-video-section .video-wrap .shape-2 {
+.nomadscode-video-section .video-wrap .shape-2 {
   position: absolute;
   right: -14%;
   bottom: -40%;
   z-index: -1;
 }
 
-.techwix-video-section .video-wrap .shape-3 {
+.nomadscode-video-section .video-wrap .shape-3 {
   position: absolute;
   right: 6%;
   bottom: 30%;
   z-index: -1;
 }
 
-.techwix-video-section .video-wrap .shape-3 svg {
+.nomadscode-video-section .video-wrap .shape-3 svg {
   fill: #ffffff;
   opacity: 0.5;
 }
 
-.techwix-video-section .video-wrap .video-content {
+.nomadscode-video-section .video-wrap .video-content {
   max-width: 385px;
   margin: 0 auto;
 }
 
-.techwix-video-section .video-wrap .video-content .play-btn-02 {
+.nomadscode-video-section .video-wrap .video-content .play-btn-02 {
   position: inherit;
   margin-top: 60px;
 }
 
-.techwix-video-section .video-wrap .video-content .play-btn-02 a::before {
+.nomadscode-video-section .video-wrap .video-content .play-btn-02 a::before {
   border: 2px solid #086ad8;
 }
 
-.techwix-video-section .video-wrap .video-content .play-btn-02 a::after {
+.nomadscode-video-section .video-wrap .video-content .play-btn-02 a::after {
   border: 2px solid #086ad8;
 }
 
 @media only screen and (max-width: 1199px) {
-  .techwix-video-section .video-wrap {
+  .nomadscode-video-section .video-wrap {
     padding-top: 110px;
     padding-bottom: 160px;
   }
 }
 
 @media only screen and (max-width: 991px) {
-  .techwix-video-section .video-wrap {
+  .nomadscode-video-section .video-wrap {
     padding-top: 100px;
     padding-bottom: 130px;
   }
-  .techwix-video-section .video-wrap .shape-2 {
+  .nomadscode-video-section .video-wrap .shape-2 {
     right: -32%;
   }
 }
 
 @media only screen and (max-width: 767px) {
-  .techwix-video-section .video-wrap .shape-2 {
+  .nomadscode-video-section .video-wrap .shape-2 {
     right: -53%;
   }
 }
 
 @media only screen and (max-width: 575px) {
-  .techwix-video-section .video-wrap .shape-1 {
+  .nomadscode-video-section .video-wrap .shape-1 {
     display: none;
   }
-  .techwix-video-section .video-wrap .shape-2 {
+  .nomadscode-video-section .video-wrap .shape-2 {
     display: none;
   }
-  .techwix-video-section .video-wrap .shape-3 {
+  .nomadscode-video-section .video-wrap .shape-3 {
     display: none;
   }
 }
@@ -7455,17 +7452,17 @@ textarea:-ms-input-placeholder {
 /*--
 /*  16 - Pricing CSS
 /*----------------------------------------*/
-.techwix-pricing-section {
+.nomadscode-pricing-section {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
 }
 
-.techwix-pricing-section .pricing-wrap .pricing-content-wrap {
+.nomadscode-pricing-section .pricing-wrap .pricing-content-wrap {
   padding-top: 30px;
 }
 
-.techwix-pricing-section .pricing-wrap .pricing-content-wrap .single-pricing {
+.nomadscode-pricing-section .pricing-wrap .pricing-content-wrap .single-pricing {
   background: #f8f8f8;
   border-radius: 10px;
   padding: 45px 55px 70px;
@@ -7475,7 +7472,7 @@ textarea:-ms-input-placeholder {
   z-index: 1;
 }
 
-.techwix-pricing-section .pricing-wrap .pricing-content-wrap .single-pricing::before {
+.nomadscode-pricing-section .pricing-wrap .pricing-content-wrap .single-pricing::before {
   content: "";
   position: absolute;
   right: -38%;
@@ -7488,12 +7485,12 @@ textarea:-ms-input-placeholder {
 }
 
 @media only screen and (max-width: 1399px) {
-  .techwix-pricing-section .pricing-wrap .pricing-content-wrap .single-pricing {
+  .nomadscode-pricing-section .pricing-wrap .pricing-content-wrap .single-pricing {
     padding: 45px 30px 50px;
   }
 }
 
-.techwix-pricing-section .pricing-wrap .pricing-content-wrap .single-pricing .pricing-badge .title {
+.nomadscode-pricing-section .pricing-wrap .pricing-content-wrap .single-pricing .pricing-badge .title {
   font-size: 36px;
   font-family: "Barlow", sans-serif;
   font-weight: 600;
@@ -7501,18 +7498,18 @@ textarea:-ms-input-placeholder {
 }
 
 @media only screen and (max-width: 575px) {
-  .techwix-pricing-section .pricing-wrap .pricing-content-wrap .single-pricing .pricing-badge .title {
+  .nomadscode-pricing-section .pricing-wrap .pricing-content-wrap .single-pricing .pricing-badge .title {
     font-size: 24px;
   }
 }
 
-.techwix-pricing-section .pricing-wrap .pricing-content-wrap .single-pricing .pricing-price {
+.nomadscode-pricing-section .pricing-wrap .pricing-content-wrap .single-pricing .pricing-price {
   display: flex;
   align-items: center;
   margin-top: 20px;
 }
 
-.techwix-pricing-section .pricing-wrap .pricing-content-wrap .single-pricing .pricing-price .currency {
+.nomadscode-pricing-section .pricing-wrap .pricing-content-wrap .single-pricing .pricing-price .currency {
   font-size: 30px;
   line-height: 54px;
   font-family: "Barlow", sans-serif;
@@ -7524,12 +7521,12 @@ textarea:-ms-input-placeholder {
 }
 
 @media only screen and (max-width: 991px) {
-  .techwix-pricing-section .pricing-wrap .pricing-content-wrap .single-pricing .pricing-price .currency {
+  .nomadscode-pricing-section .pricing-wrap .pricing-content-wrap .single-pricing .pricing-price .currency {
     font-size: 25px;
   }
 }
 
-.techwix-pricing-section .pricing-wrap .pricing-content-wrap .single-pricing .pricing-price .price {
+.nomadscode-pricing-section .pricing-wrap .pricing-content-wrap .single-pricing .pricing-price .price {
   font-size: 90px;
   line-height: 54px;
   font-family: "Barlow", sans-serif;
@@ -7538,36 +7535,36 @@ textarea:-ms-input-placeholder {
   color: #086ad8;
 }
 
-.techwix-pricing-section .pricing-wrap .pricing-content-wrap .single-pricing .pricing-price .price span {
+.nomadscode-pricing-section .pricing-wrap .pricing-content-wrap .single-pricing .pricing-price .price span {
   font-size: 18px;
   font-weight: 500;
   color: #959595;
 }
 
 @media only screen and (max-width: 991px) {
-  .techwix-pricing-section .pricing-wrap .pricing-content-wrap .single-pricing .pricing-price .price {
+  .nomadscode-pricing-section .pricing-wrap .pricing-content-wrap .single-pricing .pricing-price .price {
     font-size: 60px;
   }
 }
 
-.techwix-pricing-section .pricing-wrap .pricing-content-wrap .single-pricing .pricing-content {
+.nomadscode-pricing-section .pricing-wrap .pricing-content-wrap .single-pricing .pricing-content {
   padding-top: 55px;
 }
 
-.techwix-pricing-section .pricing-wrap .pricing-content-wrap .single-pricing .pricing-content .pricing-list li {
+.nomadscode-pricing-section .pricing-wrap .pricing-content-wrap .single-pricing .pricing-content .pricing-list li {
   font-size: 18px;
   line-height: 30px;
 }
 
-.techwix-pricing-section .pricing-wrap .pricing-content-wrap .single-pricing .pricing-content .pricing-list li + li {
+.nomadscode-pricing-section .pricing-wrap .pricing-content-wrap .single-pricing .pricing-content .pricing-list li + li {
   margin-top: 10px;
 }
 
-.techwix-pricing-section .pricing-wrap .pricing-content-wrap .single-pricing .pricing-content .pricing-btn {
+.nomadscode-pricing-section .pricing-wrap .pricing-content-wrap .single-pricing .pricing-content .pricing-btn {
   padding-top: 40px;
 }
 
-.techwix-pricing-section .pricing-wrap .pricing-content-wrap .single-pricing .pricing-content .pricing-btn .btn {
+.nomadscode-pricing-section .pricing-wrap .pricing-content-wrap .single-pricing .pricing-content .pricing-btn .btn {
   height: 50px;
   line-height: 48px;
   box-shadow: 11px 10px 38px 0 rgba(46, 63, 99, 0.15);
@@ -7575,51 +7572,51 @@ textarea:-ms-input-placeholder {
 }
 
 @media only screen and (max-width: 1399px) {
-  .techwix-pricing-section .pricing-wrap .pricing-content-wrap .single-pricing .pricing-content .pricing-btn .btn {
+  .nomadscode-pricing-section .pricing-wrap .pricing-content-wrap .single-pricing .pricing-content .pricing-btn .btn {
     margin-right: 15px;
   }
 }
 
 @media only screen and (max-width: 991px) {
-  .techwix-pricing-section .pricing-wrap .pricing-content-wrap .single-pricing .pricing-content .pricing-btn .btn {
+  .nomadscode-pricing-section .pricing-wrap .pricing-content-wrap .single-pricing .pricing-content .pricing-btn .btn {
     padding: 0 30px;
     font-size: 16px;
   }
 }
 
-.techwix-pricing-section .pricing-wrap .pricing-content-wrap .single-pricing.active {
+.nomadscode-pricing-section .pricing-wrap .pricing-content-wrap .single-pricing.active {
   background: linear-gradient(-180deg, #43baff 0%, #7141b1 100%);
 }
 
-.techwix-pricing-section .pricing-wrap .pricing-content-wrap .single-pricing.active::before {
+.nomadscode-pricing-section .pricing-wrap .pricing-content-wrap .single-pricing.active::before {
   opacity: 0.2;
 }
 
-.techwix-pricing-section .pricing-wrap .pricing-content-wrap .single-pricing.active .pricing-badge .title {
+.nomadscode-pricing-section .pricing-wrap .pricing-content-wrap .single-pricing.active .pricing-badge .title {
   color: #ffffff;
 }
 
-.techwix-pricing-section .pricing-wrap .pricing-content-wrap .single-pricing.active .pricing-price .currency {
+.nomadscode-pricing-section .pricing-wrap .pricing-content-wrap .single-pricing.active .pricing-price .currency {
   color: #ffffff;
 }
 
-.techwix-pricing-section .pricing-wrap .pricing-content-wrap .single-pricing.active .pricing-price .price {
+.nomadscode-pricing-section .pricing-wrap .pricing-content-wrap .single-pricing.active .pricing-price .price {
   color: #ffffff;
 }
 
-.techwix-pricing-section .pricing-wrap .pricing-content-wrap .single-pricing.active .pricing-price .price span {
+.nomadscode-pricing-section .pricing-wrap .pricing-content-wrap .single-pricing.active .pricing-price .price span {
   color: #ffffff;
 }
 
-.techwix-pricing-section .pricing-wrap .pricing-content-wrap .single-pricing.active .pricing-content .pricing-list li {
+.nomadscode-pricing-section .pricing-wrap .pricing-content-wrap .single-pricing.active .pricing-content .pricing-list li {
   color: #ffffff;
 }
 
-.techwix-pricing-section .pricing-wrap .pricing-content-wrap .single-pricing.active .pricing-content .pricing-list li i {
+.nomadscode-pricing-section .pricing-wrap .pricing-content-wrap .single-pricing.active .pricing-content .pricing-list li i {
   color: #ffffff;
 }
 
-.techwix-pricing-section .pricing-wrap .pricing-content-wrap .single-pricing.active .pricing-content .pricing-btn .pricing-contact {
+.nomadscode-pricing-section .pricing-wrap .pricing-content-wrap .single-pricing.active .pricing-content .pricing-btn .pricing-contact {
   color: #5149f3;
 }
 
@@ -8292,11 +8289,11 @@ textarea:-ms-input-placeholder {
 }
 
 /*--Page Pagination--*/
-.techwix-pagination {
+.nomadscode-pagination {
   margin-top: 60px;
 }
 
-.techwix-pagination .pagination li a {
+.nomadscode-pagination .pagination li a {
   width: 35px;
   height: 35px;
   line-height: 35px;
@@ -8306,7 +8303,7 @@ textarea:-ms-input-placeholder {
   transition: all 0.3s linear;
 }
 
-.techwix-pagination .pagination li a.active {
+.nomadscode-pagination .pagination li a.active {
   background-color: #086ad8;
   color: #ffffff;
 }
@@ -8484,7 +8481,7 @@ textarea:-ms-input-placeholder {
   opacity: 0.9;
 }
 
-.blog-details-post .blog-details-content .techwix-post-pagination {
+.blog-details-post .blog-details-content .nomadscode-post-pagination {
   display: flex;
   flex-wrap: wrap;
   background: #ffffff;
@@ -8496,18 +8493,18 @@ textarea:-ms-input-placeholder {
 }
 
 @media only screen and (max-width: 1199px) {
-  .blog-details-post .blog-details-content .techwix-post-pagination {
+  .blog-details-post .blog-details-content .nomadscode-post-pagination {
     padding: 10px 20px;
   }
 }
 
 @media only screen and (max-width: 575px) {
-  .blog-details-post .blog-details-content .techwix-post-pagination {
+  .blog-details-post .blog-details-content .nomadscode-post-pagination {
     padding: 0 10px;
   }
 }
 
-.blog-details-post .blog-details-content .techwix-post-pagination::before {
+.blog-details-post .blog-details-content .nomadscode-post-pagination::before {
   position: absolute;
   content: '';
   width: 1px;
@@ -8519,7 +8516,7 @@ textarea:-ms-input-placeholder {
 }
 
 @media only screen and (max-width: 767px) {
-  .blog-details-post .blog-details-content .techwix-post-pagination::before {
+  .blog-details-post .blog-details-content .nomadscode-post-pagination::before {
     width: auto;
     height: 1px;
     left: 30px;
@@ -8530,35 +8527,35 @@ textarea:-ms-input-placeholder {
   }
 }
 
-.blog-details-post .blog-details-content .techwix-post-pagination .previous-post,
-.blog-details-post .blog-details-content .techwix-post-pagination .next-post {
+.blog-details-post .blog-details-content .nomadscode-post-pagination .previous-post,
+.blog-details-post .blog-details-content .nomadscode-post-pagination .next-post {
   width: 50%;
 }
 
 @media only screen and (max-width: 767px) {
-  .blog-details-post .blog-details-content .techwix-post-pagination .previous-post,
-  .blog-details-post .blog-details-content .techwix-post-pagination .next-post {
+  .blog-details-post .blog-details-content .nomadscode-post-pagination .previous-post,
+  .blog-details-post .blog-details-content .nomadscode-post-pagination .next-post {
     width: 100%;
   }
 }
 
-.blog-details-post .blog-details-content .techwix-post-pagination .blog-pagination-post {
+.blog-details-post .blog-details-content .nomadscode-post-pagination .blog-pagination-post {
   display: flex;
   align-items: center;
   padding: 30px 0;
 }
 
 @media only screen and (max-width: 1199px) {
-  .blog-details-post .blog-details-content .techwix-post-pagination .blog-pagination-post {
+  .blog-details-post .blog-details-content .nomadscode-post-pagination .blog-pagination-post {
     padding: 20px 0;
   }
 }
 
-.blog-details-post .blog-details-content .techwix-post-pagination .blog-pagination-post .post-thumb {
+.blog-details-post .blog-details-content .nomadscode-post-pagination .blog-pagination-post .post-thumb {
   flex-shrink: 0;
 }
 
-.blog-details-post .blog-details-content .techwix-post-pagination .blog-pagination-post .post-thumb a img {
+.blog-details-post .blog-details-content .nomadscode-post-pagination .blog-pagination-post .post-thumb a img {
   border-radius: 10px;
   -o-object-position: center;
      object-position: center;
@@ -8566,30 +8563,30 @@ textarea:-ms-input-placeholder {
      object-fit: cover;
 }
 
-.blog-details-post .blog-details-content .techwix-post-pagination .blog-pagination-post .post-thumb a i {
+.blog-details-post .blog-details-content .nomadscode-post-pagination .blog-pagination-post .post-thumb a i {
   font-size: 14px;
   color: #086ad8;
   padding: 0 10px;
 }
 
-.blog-details-post .blog-details-content .techwix-post-pagination .blog-pagination-post .post-content {
+.blog-details-post .blog-details-content .nomadscode-post-pagination .blog-pagination-post .post-content {
   flex-grow: 1;
   padding: 0 20px;
 }
 
 @media only screen and (max-width: 1199px) {
-  .blog-details-post .blog-details-content .techwix-post-pagination .blog-pagination-post .post-content {
+  .blog-details-post .blog-details-content .nomadscode-post-pagination .blog-pagination-post .post-content {
     padding: 0 15px;
   }
 }
 
 @media only screen and (max-width: 575px) {
-  .blog-details-post .blog-details-content .techwix-post-pagination .blog-pagination-post .post-content {
+  .blog-details-post .blog-details-content .nomadscode-post-pagination .blog-pagination-post .post-content {
     padding: 0 13px;
   }
 }
 
-.blog-details-post .blog-details-content .techwix-post-pagination .blog-pagination-post .post-content .title {
+.blog-details-post .blog-details-content .nomadscode-post-pagination .blog-pagination-post .post-content .title {
   font-size: 18px;
   line-height: 22px;
   font-weight: 600;
@@ -8597,18 +8594,18 @@ textarea:-ms-input-placeholder {
 }
 
 @media only screen and (max-width: 1199px) {
-  .blog-details-post .blog-details-content .techwix-post-pagination .blog-pagination-post .post-content .title {
+  .blog-details-post .blog-details-content .nomadscode-post-pagination .blog-pagination-post .post-content .title {
     font-size: 15px;
   }
 }
 
-.blog-details-post .blog-details-content .techwix-post-pagination .blog-pagination-post .post-content .date {
+.blog-details-post .blog-details-content .nomadscode-post-pagination .blog-pagination-post .post-content .date {
   font-size: 12px;
   line-height: 22px;
   color: #838383;
 }
 
-.blog-details-post .blog-details-content .techwix-post-pagination .blog-pagination-post .post-content .date i {
+.blog-details-post .blog-details-content .nomadscode-post-pagination .blog-pagination-post .post-content .date i {
   color: #086ad8;
   margin-right: 6px;
 }
@@ -8967,11 +8964,11 @@ textarea:-ms-input-placeholder {
 }
 
 .footer-section-02 .footer-social .social li a {
-  color: #ff5538;
+  color: #2d7228;
 }
 
 .footer-section-02 .footer-social .social li a:hover {
-  color: #ff5538;
+  color: #2d7228;
 }
 
 .footer-section-02 .widget-link {
@@ -8979,15 +8976,15 @@ textarea:-ms-input-placeholder {
 }
 
 .footer-section-02 .widget-link .link li a:hover {
-  color: #ff5538;
+  color: #2d7228;
 }
 
 .footer-section-02 .widget-info ul li .info-icon i {
-  color: #ff5538;
+  color: #2d7228;
 }
 
 .footer-section-02 .widget-info ul li .info-text a:hover {
-  color: #ff5538;
+  color: #2d7228;
 }
 
 .footer-section-04 .footer-widget-about p {
@@ -9150,9 +9147,9 @@ textarea:-ms-input-placeholder {
 }
 
 .progress-wrap-3::after {
-  color: #ff5538;
+  color: #2d7228;
 }
 
 .progress-wrap-3 svg.progress-circle path {
-  stroke: #ff5538;
+  stroke: #2d7228;
 }
